@@ -45,7 +45,7 @@ WEC.columns
 
 WEC1 = WEC.query('year >= 1978')[['Region', 'year','OilConsumption-EJ','GasConsumption-EJ','CoalConsumption-EJ','NuclearConsumption-EJ','HydroConsumption-EJ','SolarConsumption-EJ','WindConsumption-EJ','RenewableConsumption-other']].melt(id_vars=['Region','year'], var_name ='Energy',value_name='values' )
 
-WEC1.to_csv('EnergyConsumption.csv')
+WEC1.to_csv('ENERGYCONSUMPTION.csv')
 
 ENERGY = pd.read_csv('ENERGYCONSUMPTION.csv')
 
