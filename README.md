@@ -1,2 +1,2 @@
-# Data-Science
-Data Science Projects
+# Data-Visualizations
+Data Visualization Projects
