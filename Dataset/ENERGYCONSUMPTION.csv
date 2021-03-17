@@ -1,0 +1,2689 @@
+Fuels,Country,year,Energy Consumption-EJ
+Wind,Africa,1978,0
+Wind,Africa,1979,0
+Wind,Africa,1980,0
+Wind,Africa,1981,0
+Wind,Africa,1982,0
+Wind,Africa,1983,0
+Wind,Africa,1984,0
+Wind,Africa,1985,0
+Wind,Africa,1986,0
+Wind,Africa,1987,0
+Wind,Africa,1988,0
+Wind,Africa,1989,0
+Wind,Africa,1990,0
+Wind,Africa,1991,0
+Wind,Africa,1992,0
+Wind,Africa,1993,0.00002
+Wind,Africa,1994,0.000054
+Wind,Africa,1995,0.000063
+Wind,Africa,1996,0.000071
+Wind,Africa,1997,0.000072
+Wind,Africa,1998,0.000076
+Wind,Africa,1999,0.000198
+Wind,Africa,2000,0.00176
+Wind,Africa,2001,0.004133822
+Wind,Africa,2002,0.004388522
+Wind,Africa,2003,0.005307897
+Wind,Africa,2004,0.007496858
+Wind,Africa,2005,0.007576278
+Wind,Africa,2006,0.008203981
+Wind,Africa,2007,0.009717655
+Wind,Africa,2008,0.01246974
+Wind,Africa,2009,0.015014076
+Wind,Africa,2010,0.021440525
+Wind,Africa,2011,0.023672766
+Wind,Africa,2012,0.027463326
+Wind,Africa,2013,0.032810061
+Wind,Africa,2014,0.047257042
+Wind,Africa,2015,0.080946894
+Wind,Africa,2016,0.102354498
+Wind,Africa,2017,0.112123612
+Wind,Africa,2018,0.127838164
+Wind,Africa,2019,0.156073339
+Wind,Asia Pacific,1978,0
+Wind,Asia Pacific,1979,0
+Wind,Asia Pacific,1980,0
+Wind,Asia Pacific,1981,0
+Wind,Asia Pacific,1982,0
+Wind,Asia Pacific,1983,0
+Wind,Asia Pacific,1984,0
+Wind,Asia Pacific,1985,0
+Wind,Asia Pacific,1986,0
+Wind,Asia Pacific,1987,0
+Wind,Asia Pacific,1988,0
+Wind,Asia Pacific,1989,0
+Wind,Asia Pacific,1990,0.00032323
+Wind,Asia Pacific,1991,0.00122
+Wind,Asia Pacific,1992,0.002204741
+Wind,Asia Pacific,1993,0.003118372
+Wind,Asia Pacific,1994,0.005835884
+Wind,Asia Pacific,1995,0.011216016
+Wind,Asia Pacific,1996,0.009912094
+Wind,Asia Pacific,1997,0.012139534
+Wind,Asia Pacific,1998,0.014895453
+Wind,Asia Pacific,1999,0.020532529
+Wind,Asia Pacific,2000,0.025639421
+Wind,Asia Pacific,2001,0.034945758
+Wind,Asia Pacific,2002,0.040145328
+Wind,Asia Pacific,2003,0.05238166
+Wind,Asia Pacific,2004,0.089526406
+Wind,Asia Pacific,2005,0.116388398
+Wind,Asia Pacific,2006,0.178690615
+Wind,Asia Pacific,2007,0.235725245
+Wind,Asia Pacific,2008,0.343340494
+Wind,Asia Pacific,2009,0.51830665
+Wind,Asia Pacific,2010,0.765238029
+Wind,Asia Pacific,2011,1.060103567
+Wind,Asia Pacific,2012,1.370234306
+Wind,Asia Pacific,2013,1.740228247
+Wind,Asia Pacific,2014,1.968281384
+Wind,Asia Pacific,2015,2.216124725
+Wind,Asia Pacific,2016,2.829478458
+Wind,Asia Pacific,2017,3.492030034
+Wind,Asia Pacific,2018,4.148989085
+Wind,Asia Pacific,2019,4.584305304
+Wind,CIS,1978,0
+Wind,CIS,1979,0
+Wind,CIS,1980,0
+Wind,CIS,1981,0
+Wind,CIS,1982,0
+Wind,CIS,1983,0
+Wind,CIS,1984,0
+Wind,CIS,1985,0
+Wind,CIS,1986,0
+Wind,CIS,1987,0
+Wind,CIS,1988,0
+Wind,CIS,1989,0
+Wind,CIS,1990,0
+Wind,CIS,1991,0
+Wind,CIS,1992,0
+Wind,CIS,1993,0
+Wind,CIS,1994,0
+Wind,CIS,1995,0
+Wind,CIS,1996,0
+Wind,CIS,1997,0
+Wind,CIS,1998,0
+Wind,CIS,1999,0
+Wind,CIS,2000,0.000019
+Wind,CIS,2001,0.0000308
+Wind,CIS,2002,0.0000612
+Wind,CIS,2003,0.0000843
+Wind,CIS,2004,0.00007804
+Wind,CIS,2005,0.00007548
+Wind,CIS,2006,0.00008462
+Wind,CIS,2007,0.00010036
+Wind,CIS,2008,0.000077
+Wind,CIS,2009,0.00010574
+Wind,CIS,2010,0.00009188
+Wind,CIS,2011,0.00011697
+Wind,CIS,2012,0.0001679
+Wind,CIS,2013,0.00019457
+Wind,CIS,2014,0.001151423
+Wind,CIS,2015,0.002996787
+Wind,CIS,2016,0.004743064
+Wind,CIS,2017,0.005462673
+Wind,CIS,2018,0.007412672
+Wind,CIS,2019,0.009607895
+Wind,Europe,1978,0.00003
+Wind,Europe,1979,0.00006
+Wind,Europe,1980,0.000105
+Wind,Europe,1981,0.000105
+Wind,Europe,1982,0.000185
+Wind,Europe,1983,0.000301
+Wind,Europe,1984,0.000382
+Wind,Europe,1985,0.000574
+Wind,Europe,1986,0.001336
+Wind,Europe,1987,0.001908
+Wind,Europe,1988,0.003297
+Wind,Europe,1989,0.005154
+Wind,Europe,1990,0.00779462
+Wind,Europe,1991,0.0098003
+Wind,Europe,1992,0.015350509
+Wind,Europe,1993,0.022848253
+Wind,Europe,1994,0.029792384
+Wind,Europe,1995,0.038630331
+Wind,Europe,1996,0.048285854
+Wind,Europe,1997,0.072954934
+Wind,Europe,1998,0.111764796
+Wind,Europe,1999,0.142443221
+Wind,Europe,2000,0.224547139
+Wind,Europe,2001,0.267593853
+Wind,Europe,2002,0.359559395
+Wind,Europe,2003,0.436747777
+Wind,Europe,2004,0.577860556
+Wind,Europe,2005,0.688468453
+Wind,Europe,2006,0.80025867
+Wind,Europe,2007,1.010882429
+Wind,Europe,2008,1.1532389
+Wind,Europe,2009,1.278619412
+Wind,Europe,2010,1.440297836
+Wind,Europe,2011,1.741376947
+Wind,Europe,2012,1.99212877
+Wind,Europe,2013,2.286648783
+Wind,Europe,2014,2.426138646
+Wind,Europe,2015,2.903420397
+Wind,Europe,2016,2.923517221
+Wind,Europe,2017,3.455410383
+Wind,Europe,2018,3.603777277
+Wind,Europe,2019,4.114766959
+Wind,Middle East,1978,0
+Wind,Middle East,1979,0
+Wind,Middle East,1980,0
+Wind,Middle East,1981,0
+Wind,Middle East,1982,0
+Wind,Middle East,1983,0
+Wind,Middle East,1984,0
+Wind,Middle East,1985,0
+Wind,Middle East,1986,0
+Wind,Middle East,1987,0
+Wind,Middle East,1988,0
+Wind,Middle East,1989,0
+Wind,Middle East,1990,0.00001
+Wind,Middle East,1991,0.00001
+Wind,Middle East,1992,0.00001
+Wind,Middle East,1993,0.00001
+Wind,Middle East,1994,0.00001
+Wind,Middle East,1995,0.00001
+Wind,Middle East,1996,0.00001
+Wind,Middle East,1997,0.00003
+Wind,Middle East,1998,0.00003
+Wind,Middle East,1999,0.00038
+Wind,Middle East,2000,0.000395
+Wind,Middle East,2001,0.000464012
+Wind,Middle East,2002,0.000437271
+Wind,Middle East,2003,0.000417784
+Wind,Middle East,2004,0.000598401
+Wind,Middle East,2005,0.000832782
+Wind,Middle East,2006,0.001341417
+Wind,Middle East,2007,0.001482181
+Wind,Middle East,2008,0.001996608
+Wind,Middle East,2009,0.002271433
+Wind,Middle East,2010,0.00208564
+Wind,Middle East,2011,0.002106499
+Wind,Middle East,2012,0.002008418
+Wind,Middle East,2013,0.002102224
+Wind,Middle East,2014,0.001990663
+Wind,Middle East,2015,0.003490529
+Wind,Middle East,2016,0.00643518
+Wind,Middle East,2017,0.00746912
+Wind,Middle East,2018,0.010129836
+Wind,Middle East,2019,0.010305463
+Wind,North America,1978,0
+Wind,North America,1979,0
+Wind,North America,1980,0
+Wind,North America,1981,0
+Wind,North America,1982,0
+Wind,North America,1983,0.0000269
+Wind,North America,1984,0.0000656
+Wind,North America,1985,0.0000682
+Wind,North America,1986,0.0000523
+Wind,North America,1987,0.0000458
+Wind,North America,1988,0.0000188
+Wind,North America,1989,0.021343768
+Wind,North America,1990,0.028196877
+Wind,North America,1991,0.029836786
+Wind,North America,1992,0.029766899
+Wind,North America,1993,0.030961889
+Wind,North America,1994,0.035459283
+Wind,North America,1995,0.032622152
+Wind,North America,1996,0.033347364
+Wind,North America,1997,0.033952475
+Wind,North America,1998,0.031332586
+Wind,North America,1999,0.047123313
+Wind,North America,2000,0.059327586
+Wind,North America,2001,0.071059407
+Wind,North America,2002,0.107444187
+Wind,North America,2003,0.117785194
+Wind,North America,2004,0.148630311
+Wind,North America,2005,0.189424202
+Wind,North America,2006,0.2824314
+Wind,North America,2007,0.363596009
+Wind,North America,2008,0.569861685
+Wind,North America,2009,0.77322102
+Wind,North America,2010,0.99094845
+Wind,North America,2011,1.24291415
+Wind,North America,2012,1.458080195
+Wind,North America,2013,1.703876972
+Wind,North America,2014,1.857378316
+Wind,North America,2015,2.079675118
+Wind,North America,2016,2.449780123
+Wind,North America,2017,2.691042953
+Wind,North America,2018,2.878179008
+Wind,North America,2019,3.163469123
+Wind,South & Central America,1978,0
+Wind,South & Central America,1979,0
+Wind,South & Central America,1980,0
+Wind,South & Central America,1981,0
+Wind,South & Central America,1982,0
+Wind,South & Central America,1983,0
+Wind,South & Central America,1984,0
+Wind,South & Central America,1985,0
+Wind,South & Central America,1986,0
+Wind,South & Central America,1987,0
+Wind,South & Central America,1988,0
+Wind,South & Central America,1989,0
+Wind,South & Central America,1990,0
+Wind,South & Central America,1991,0
+Wind,South & Central America,1992,0
+Wind,South & Central America,1993,0.0000172
+Wind,South & Central America,1994,0.0000778
+Wind,South & Central America,1995,0.0000778
+Wind,South & Central America,1996,0.000419784
+Wind,South & Central America,1997,0.001029245
+Wind,South & Central America,1998,0.001113694
+Wind,South & Central America,1999,0.001484719
+Wind,South & Central America,2000,0.002520868
+Wind,South & Central America,2001,0.003188726
+Wind,South & Central America,2002,0.004529139
+Wind,South & Central America,2003,0.004345568
+Wind,South & Central America,2004,0.005295407
+Wind,South & Central America,2005,0.005154282
+Wind,South & Central America,2006,0.007445619
+Wind,South & Central America,2007,0.011105028
+Wind,South & Central America,2008,0.015873409
+Wind,South & Central America,2009,0.019623976
+Wind,South & Central America,2010,0.032375056
+Wind,South & Central America,2011,0.040343404
+Wind,South & Central America,2012,0.072367721
+Wind,South & Central America,2013,0.093985844
+Wind,South & Central America,2014,0.17024545
+Wind,South & Central America,2015,0.286548907
+Wind,South & Central America,2016,0.408983182
+Wind,South & Central America,2017,0.505202551
+Wind,South & Central America,2018,0.588307092
+Wind,South & Central America,2019,0.705646604
+Solar,Africa,1978,0
+Solar,Africa,1979,0
+Solar,Africa,1980,0
+Solar,Africa,1981,0
+Solar,Africa,1982,0
+Solar,Africa,1983,0
+Solar,Africa,1984,0
+Solar,Africa,1985,0
+Solar,Africa,1986,0
+Solar,Africa,1987,0
+Solar,Africa,1988,0
+Solar,Africa,1989,0
+Solar,Africa,1990,0
+Solar,Africa,1991,0
+Solar,Africa,1992,0
+Solar,Africa,1993,0
+Solar,Africa,1994,0
+Solar,Africa,1995,0
+Solar,Africa,1996,0
+Solar,Africa,1997,0
+Solar,Africa,1998,0
+Solar,Africa,1999,0
+Solar,Africa,2000,0.0001314
+Solar,Africa,2001,0.000162546
+Solar,Africa,2002,0.000192197
+Solar,Africa,2003,0.000225888
+Solar,Africa,2004,0.00026757
+Solar,Africa,2005,0.000313518
+Solar,Africa,2006,0.000391293
+Solar,Africa,2007,0.000510008
+Solar,Africa,2008,0.00071411
+Solar,Africa,2009,0.000927016
+Solar,Africa,2010,0.002006995
+Solar,Africa,2011,0.004224156
+Solar,Africa,2012,0.00511059
+Solar,Africa,2013,0.007597908
+Solar,Africa,2014,0.016777854
+Solar,Africa,2015,0.032746632
+Solar,Africa,2016,0.044716825
+Solar,Africa,2017,0.062856456
+Solar,Africa,2018,0.088133572
+Solar,Africa,2019,0.172742645
+Solar,Asia Pacific,1978,0
+Solar,Asia Pacific,1979,0
+Solar,Asia Pacific,1980,0
+Solar,Asia Pacific,1981,0
+Solar,Asia Pacific,1982,0
+Solar,Asia Pacific,1983,0
+Solar,Asia Pacific,1984,0
+Solar,Asia Pacific,1985,0
+Solar,Asia Pacific,1986,0
+Solar,Asia Pacific,1987,0
+Solar,Asia Pacific,1988,0
+Solar,Asia Pacific,1989,0
+Solar,Asia Pacific,1990,0.00004
+Solar,Asia Pacific,1991,0.0000945
+Solar,Asia Pacific,1992,0.000276
+Solar,Asia Pacific,1993,0.000431
+Solar,Asia Pacific,1994,0.000534
+Solar,Asia Pacific,1995,0.0007066
+Solar,Asia Pacific,1996,0.0009816
+Solar,Asia Pacific,1997,0.001470148
+Solar,Asia Pacific,1998,0.002029183
+Solar,Asia Pacific,1999,0.00286266
+Solar,Asia Pacific,2000,0.004284877
+Solar,Asia Pacific,2001,0.006045493
+Solar,Asia Pacific,2002,0.008184101
+Solar,Asia Pacific,2003,0.010950993
+Solar,Asia Pacific,2004,0.014264868
+Solar,Asia Pacific,2005,0.017939155
+Solar,Asia Pacific,2006,0.022046468
+Solar,Asia Pacific,2007,0.02636831
+Solar,Asia Pacific,2008,0.031952682
+Solar,Asia Pacific,2009,0.041636431
+Solar,Asia Pacific,2010,0.063626075
+Solar,Asia Pacific,2011,0.114248061
+Solar,Asia Pacific,2012,0.163425069
+Solar,Asia Pacific,2013,0.299215278
+Solar,Asia Pacific,2014,0.577311103
+Solar,Asia Pacific,2015,0.870893372
+Solar,Asia Pacific,2016,1.282661249
+Solar,Asia Pacific,2017,1.979004346
+Solar,Asia Pacific,2018,2.802488694
+Solar,Asia Pacific,2019,3.511568733
+Solar,CIS,1978,0
+Solar,CIS,1979,0
+Solar,CIS,1980,0
+Solar,CIS,1981,0
+Solar,CIS,1982,0
+Solar,CIS,1983,0
+Solar,CIS,1984,0
+Solar,CIS,1985,0
+Solar,CIS,1986,0
+Solar,CIS,1987,0
+Solar,CIS,1988,0
+Solar,CIS,1989,0
+Solar,CIS,1990,0
+Solar,CIS,1991,0
+Solar,CIS,1992,0
+Solar,CIS,1993,0
+Solar,CIS,1994,0
+Solar,CIS,1995,0
+Solar,CIS,1996,0
+Solar,CIS,1997,0
+Solar,CIS,1998,0
+Solar,CIS,1999,0
+Solar,CIS,2000,0
+Solar,CIS,2001,0
+Solar,CIS,2002,0
+Solar,CIS,2003,0
+Solar,CIS,2004,0
+Solar,CIS,2005,0
+Solar,CIS,2006,0
+Solar,CIS,2007,0
+Solar,CIS,2008,0
+Solar,CIS,2009,6.97E-08
+Solar,CIS,2010,0.000002257
+Solar,CIS,2011,0.00001701
+Solar,CIS,2012,0.000058795
+Solar,CIS,2013,0.00017362
+Solar,CIS,2014,0.001625168
+Solar,CIS,2015,0.003743443
+Solar,CIS,2016,0.00575836
+Solar,CIS,2017,0.00702585
+Solar,CIS,2018,0.008450092
+Solar,CIS,2019,0.013114788
+Solar,Europe,1978,0
+Solar,Europe,1979,0
+Solar,Europe,1980,0
+Solar,Europe,1981,0
+Solar,Europe,1982,0
+Solar,Europe,1983,0
+Solar,Europe,1984,0.0000101
+Solar,Europe,1985,0.0000101
+Solar,Europe,1986,0.0000101
+Solar,Europe,1987,0
+Solar,Europe,1988,0.0000101
+Solar,Europe,1989,0.0000909
+Solar,Europe,1990,0.000125
+Solar,Europe,1991,0.000155
+Solar,Europe,1992,0.00027088
+Solar,Europe,1993,0.00032383
+Solar,Europe,1994,0.000376885
+Solar,Europe,1995,0.0004684
+Solar,Europe,1996,0.000538113
+Solar,Europe,1997,0.000639258
+Solar,Europe,1998,0.000870885
+Solar,Europe,1999,0.000911985
+Solar,Europe,2000,0.0013447
+Solar,Europe,2001,0.001691088
+Solar,Europe,2002,0.002731744
+Solar,Europe,2003,0.004596799
+Solar,Europe,2004,0.007319592
+Solar,Europe,2005,0.014393475
+Solar,Europe,2006,0.024288241
+Solar,Europe,2007,0.036487755
+Solar,Europe,2008,0.071283385
+Solar,Europe,2009,0.134043341
+Solar,Europe,2010,0.218362268
+Solar,Europe,2011,0.43580317
+Solar,Europe,2012,0.666430333
+Solar,Europe,2013,0.801269332
+Solar,Europe,2014,0.90550064
+Solar,Europe,2015,1.000724258
+Solar,Europe,2016,1.031640638
+Solar,Europe,2017,1.12027225
+Solar,Europe,2018,1.23971668
+Solar,Europe,2019,1.378728741
+Solar,Middle East,1978,0
+Solar,Middle East,1979,0
+Solar,Middle East,1980,0
+Solar,Middle East,1981,0
+Solar,Middle East,1982,0
+Solar,Middle East,1983,0
+Solar,Middle East,1984,0
+Solar,Middle East,1985,0
+Solar,Middle East,1986,0
+Solar,Middle East,1987,0
+Solar,Middle East,1988,0
+Solar,Middle East,1989,0
+Solar,Middle East,1990,0
+Solar,Middle East,1991,0
+Solar,Middle East,1992,0
+Solar,Middle East,1993,0
+Solar,Middle East,1994,0
+Solar,Middle East,1995,0
+Solar,Middle East,1996,0
+Solar,Middle East,1997,0
+Solar,Middle East,1998,0
+Solar,Middle East,1999,0
+Solar,Middle East,2000,0
+Solar,Middle East,2001,0
+Solar,Middle East,2002,0
+Solar,Middle East,2003,0
+Solar,Middle East,2004,0
+Solar,Middle East,2005,0
+Solar,Middle East,2006,0.000000962
+Solar,Middle East,2007,0.000000956
+Solar,Middle East,2008,0.00003339
+Solar,Middle East,2009,0.000323557
+Solar,Middle East,2010,0.000917562
+Solar,Middle East,2011,0.002110629
+Solar,Middle East,2012,0.003976538
+Solar,Middle East,2013,0.006340894
+Solar,Middle East,2014,0.011940034
+Solar,Middle East,2015,0.017045119
+Solar,Middle East,2016,0.028711344
+Solar,Middle East,2017,0.039548412
+Solar,Middle East,2018,0.054600874
+Solar,Middle East,2019,0.106273543
+Solar,North America,1978,0
+Solar,North America,1979,0
+Solar,North America,1980,0
+Solar,North America,1981,0
+Solar,North America,1982,0
+Solar,North America,1983,0.00003
+Solar,North America,1984,0.000053
+Solar,North America,1985,0.000107374
+Solar,North America,1986,0.000141737
+Solar,North America,1987,0.00010603
+Solar,North America,1988,0.0000919
+Solar,North America,1989,0.002531323
+Solar,North America,1990,0.003717949
+Solar,North America,1991,0.004802529
+Solar,North America,1992,0.004138945
+Solar,North America,1993,0.004812119
+Solar,North America,1994,0.005089228
+Solar,North America,1995,0.005233116
+Solar,North America,1996,0.005532312
+Solar,North America,1997,0.005456457
+Solar,North America,1998,0.005417646
+Solar,North America,1999,0.005386053
+Solar,North America,2000,0.005419338
+Solar,North America,2001,0.005980233
+Solar,North America,2002,0.006241785
+Solar,North America,2003,0.006291122
+Solar,North America,2004,0.007030154
+Solar,North America,2005,0.007518103
+Solar,North America,2006,0.008247697
+Solar,North America,2007,0.010837772
+Solar,North America,2008,0.016032334
+Solar,North America,2009,0.020893571
+Solar,North America,2010,0.030958907
+Solar,North America,2011,0.049925618
+Solar,North America,2012,0.092606855
+Solar,North America,2013,0.162626977
+Solar,North America,2014,0.289114679
+Solar,North America,2015,0.387666142
+Solar,North America,2016,0.533636798
+Solar,North America,2017,0.74542401
+Solar,North America,2018,0.906746199
+Solar,North America,2019,1.115301223
+Solar,South & Central America,1978,0
+Solar,South & Central America,1979,0
+Solar,South & Central America,1980,0
+Solar,South & Central America,1981,0
+Solar,South & Central America,1982,0
+Solar,South & Central America,1983,0
+Solar,South & Central America,1984,0
+Solar,South & Central America,1985,0
+Solar,South & Central America,1986,0
+Solar,South & Central America,1987,0
+Solar,South & Central America,1988,0
+Solar,South & Central America,1989,0
+Solar,South & Central America,1990,0
+Solar,South & Central America,1991,0
+Solar,South & Central America,1992,0
+Solar,South & Central America,1993,0
+Solar,South & Central America,1994,0
+Solar,South & Central America,1995,0
+Solar,South & Central America,1996,0
+Solar,South & Central America,1997,0
+Solar,South & Central America,1998,0.00000017
+Solar,South & Central America,1999,0.00000127
+Solar,South & Central America,2000,0.00002203
+Solar,South & Central America,2001,0.000037958
+Solar,South & Central America,2002,0.000061484
+Solar,South & Central America,2003,0.000084718
+Solar,South & Central America,2004,0.000108232
+Solar,South & Central America,2005,0.000173724
+Solar,South & Central America,2006,0.000078689
+Solar,South & Central America,2007,0.000099624
+Solar,South & Central America,2008,0.000138324
+Solar,South & Central America,2009,0.000234457
+Solar,South & Central America,2010,0.000589757
+Solar,South & Central America,2011,0.00122696
+Solar,South & Central America,2012,0.003160662
+Solar,South & Central America,2013,0.004982585
+Solar,South & Central America,2014,0.01044547
+Solar,South & Central America,2015,0.026241879
+Solar,South & Central America,2016,0.044491852
+Solar,South & Central America,2017,0.068389585
+Solar,South & Central America,2018,0.113981705
+Solar,South & Central America,2019,0.157052146
+Other-Renewable,Africa,1978,0.00195
+Other-Renewable,Africa,1979,0.00201
+Other-Renewable,Africa,1980,0.00207
+Other-Renewable,Africa,1981,0.00218
+Other-Renewable,Africa,1982,0.00236
+Other-Renewable,Africa,1983,0.0023
+Other-Renewable,Africa,1984,0.00234
+Other-Renewable,Africa,1985,0.00269
+Other-Renewable,Africa,1986,0.00659
+Other-Renewable,Africa,1987,0.00658
+Other-Renewable,Africa,1988,0.00626
+Other-Renewable,Africa,1989,0.00617
+Other-Renewable,Africa,1990,0.007657313
+Other-Renewable,Africa,1991,0.00788
+Other-Renewable,Africa,1992,0.0082425
+Other-Renewable,Africa,1993,0.009157
+Other-Renewable,Africa,1994,0.00821
+Other-Renewable,Africa,1995,0.010207
+Other-Renewable,Africa,1996,0.012600931
+Other-Renewable,Africa,1997,0.013886404
+Other-Renewable,Africa,1998,0.017145493
+Other-Renewable,Africa,1999,0.016961248
+Other-Renewable,Africa,2000,0.022690632
+Other-Renewable,Africa,2001,0.023201835
+Other-Renewable,Africa,2002,0.022568983
+Other-Renewable,Africa,2003,0.025719739
+Other-Renewable,Africa,2004,0.029080703
+Other-Renewable,Africa,2005,0.02919398
+Other-Renewable,Africa,2006,0.036328262
+Other-Renewable,Africa,2007,0.030091753
+Other-Renewable,Africa,2008,0.031088669
+Other-Renewable,Africa,2009,0.033647932
+Other-Renewable,Africa,2010,0.035946009
+Other-Renewable,Africa,2011,0.036660822
+Other-Renewable,Africa,2012,0.03792499
+Other-Renewable,Africa,2013,0.040911537
+Other-Renewable,Africa,2014,0.050872253
+Other-Renewable,Africa,2015,0.064988449
+Other-Renewable,Africa,2016,0.065245358
+Other-Renewable,Africa,2017,0.068139116
+Other-Renewable,Africa,2018,0.072111614
+Other-Renewable,Africa,2019,0.072957485
+Other-Renewable,Asia Pacific,1978,0.029174714
+Other-Renewable,Asia Pacific,1979,0.037129204
+Other-Renewable,Asia Pacific,1980,0.051734332
+Other-Renewable,Asia Pacific,1981,0.070719654
+Other-Renewable,Asia Pacific,1982,0.159518923
+Other-Renewable,Asia Pacific,1983,0.180678114
+Other-Renewable,Asia Pacific,1984,0.197421388
+Other-Renewable,Asia Pacific,1985,0.207914916
+Other-Renewable,Asia Pacific,1986,0.2168989
+Other-Renewable,Asia Pacific,1987,0.220097499
+Other-Renewable,Asia Pacific,1988,0.238267004
+Other-Renewable,Asia Pacific,1989,0.26243339
+Other-Renewable,Asia Pacific,1990,0.223340819
+Other-Renewable,Asia Pacific,1991,0.228382519
+Other-Renewable,Asia Pacific,1992,0.230063343
+Other-Renewable,Asia Pacific,1993,0.228985139
+Other-Renewable,Asia Pacific,1994,0.263709796
+Other-Renewable,Asia Pacific,1995,0.309021387
+Other-Renewable,Asia Pacific,1996,0.31456024
+Other-Renewable,Asia Pacific,1997,0.349378277
+Other-Renewable,Asia Pacific,1998,0.375418519
+Other-Renewable,Asia Pacific,1999,0.41202695
+Other-Renewable,Asia Pacific,2000,0.446080648
+Other-Renewable,Asia Pacific,2001,0.449504607
+Other-Renewable,Asia Pacific,2002,0.464667264
+Other-Renewable,Asia Pacific,2003,0.482975368
+Other-Renewable,Asia Pacific,2004,0.516745602
+Other-Renewable,Asia Pacific,2005,0.582873523
+Other-Renewable,Asia Pacific,2006,0.620660671
+Other-Renewable,Asia Pacific,2007,0.680209587
+Other-Renewable,Asia Pacific,2008,0.751086619
+Other-Renewable,Asia Pacific,2009,0.831103765
+Other-Renewable,Asia Pacific,2010,0.920967111
+Other-Renewable,Asia Pacific,2011,0.976155091
+Other-Renewable,Asia Pacific,2012,1.047502529
+Other-Renewable,Asia Pacific,2013,1.149573958
+Other-Renewable,Asia Pacific,2014,1.289104175
+Other-Renewable,Asia Pacific,2015,1.450353351
+Other-Renewable,Asia Pacific,2016,1.45450558
+Other-Renewable,Asia Pacific,2017,1.670373352
+Other-Renewable,Asia Pacific,2018,1.866497245
+Other-Renewable,Asia Pacific,2019,2.121826202
+Other-Renewable,CIS,1978,0
+Other-Renewable,CIS,1979,0
+Other-Renewable,CIS,1980,0
+Other-Renewable,CIS,1981,0
+Other-Renewable,CIS,1982,0
+Other-Renewable,CIS,1983,0
+Other-Renewable,CIS,1984,0
+Other-Renewable,CIS,1985,0
+Other-Renewable,CIS,1986,0
+Other-Renewable,CIS,1987,0
+Other-Renewable,CIS,1988,0
+Other-Renewable,CIS,1989,0
+Other-Renewable,CIS,1990,0.00065
+Other-Renewable,CIS,1991,0.00065
+Other-Renewable,CIS,1992,0.00063
+Other-Renewable,CIS,1993,0.0006
+Other-Renewable,CIS,1994,0.00061
+Other-Renewable,CIS,1995,0.00059
+Other-Renewable,CIS,1996,0.00057
+Other-Renewable,CIS,1997,0.00057
+Other-Renewable,CIS,1998,0.00058
+Other-Renewable,CIS,1999,0.00058
+Other-Renewable,CIS,2000,0.000791
+Other-Renewable,CIS,2001,0.001133591
+Other-Renewable,CIS,2002,0.001710639
+Other-Renewable,CIS,2003,0.003587654
+Other-Renewable,CIS,2004,0.004383401
+Other-Renewable,CIS,2005,0.004370184
+Other-Renewable,CIS,2006,0.00488537
+Other-Renewable,CIS,2007,0.004766906
+Other-Renewable,CIS,2008,0.00495967
+Other-Renewable,CIS,2009,0.005264334
+Other-Renewable,CIS,2010,0.005828211
+Other-Renewable,CIS,2011,0.006084623
+Other-Renewable,CIS,2012,0.005543691
+Other-Renewable,CIS,2013,0.005843784
+Other-Renewable,CIS,2014,0.006719174
+Other-Renewable,CIS,2015,0.006207209
+Other-Renewable,CIS,2016,0.005821294
+Other-Renewable,CIS,2017,0.006619261
+Other-Renewable,CIS,2018,0.006578081
+Other-Renewable,CIS,2019,0.006598513
+Other-Renewable,Europe,1978,0.093721391
+Other-Renewable,Europe,1979,0.09762958
+Other-Renewable,Europe,1980,0.107409493
+Other-Renewable,Europe,1981,0.107535232
+Other-Renewable,Europe,1982,0.09836121
+Other-Renewable,Europe,1983,0.101366522
+Other-Renewable,Europe,1984,0.105105778
+Other-Renewable,Europe,1985,0.109614127
+Other-Renewable,Europe,1986,0.130188096
+Other-Renewable,Europe,1987,0.128753013
+Other-Renewable,Europe,1988,0.136780998
+Other-Renewable,Europe,1989,0.135372759
+Other-Renewable,Europe,1990,0.1895285
+Other-Renewable,Europe,1991,0.19549433
+Other-Renewable,Europe,1992,0.20709603
+Other-Renewable,Europe,1993,0.22879095
+Other-Renewable,Europe,1994,0.240178997
+Other-Renewable,Europe,1995,0.264986315
+Other-Renewable,Europe,1996,0.266801999
+Other-Renewable,Europe,1997,0.316635194
+Other-Renewable,Europe,1998,0.361150419
+Other-Renewable,Europe,1999,0.380996002
+Other-Renewable,Europe,2000,0.423312483
+Other-Renewable,Europe,2001,0.44662758
+Other-Renewable,Europe,2002,0.500027054
+Other-Renewable,Europe,2003,0.568659543
+Other-Renewable,Europe,2004,0.670482529
+Other-Renewable,Europe,2005,0.761835224
+Other-Renewable,Europe,2006,0.859083054
+Other-Renewable,Europe,2007,0.951180229
+Other-Renewable,Europe,2008,1.045766796
+Other-Renewable,Europe,2009,1.140384108
+Other-Renewable,Europe,2010,1.284927214
+Other-Renewable,Europe,2011,1.363613766
+Other-Renewable,Europe,2012,1.502124059
+Other-Renewable,Europe,2013,1.582887079
+Other-Renewable,Europe,2014,1.681377773
+Other-Renewable,Europe,2015,1.790985272
+Other-Renewable,Europe,2016,1.824753228
+Other-Renewable,Europe,2017,1.874440761
+Other-Renewable,Europe,2018,1.92375524
+Other-Renewable,Europe,2019,1.964152113
+Other-Renewable,Middle East,1978,0
+Other-Renewable,Middle East,1979,0
+Other-Renewable,Middle East,1980,0
+Other-Renewable,Middle East,1981,0
+Other-Renewable,Middle East,1982,0
+Other-Renewable,Middle East,1983,0
+Other-Renewable,Middle East,1984,0
+Other-Renewable,Middle East,1985,0
+Other-Renewable,Middle East,1986,0
+Other-Renewable,Middle East,1987,0
+Other-Renewable,Middle East,1988,0
+Other-Renewable,Middle East,1989,0
+Other-Renewable,Middle East,1990,0
+Other-Renewable,Middle East,1991,0
+Other-Renewable,Middle East,1992,0
+Other-Renewable,Middle East,1993,0
+Other-Renewable,Middle East,1994,0
+Other-Renewable,Middle East,1995,0
+Other-Renewable,Middle East,1996,0
+Other-Renewable,Middle East,1997,0
+Other-Renewable,Middle East,1998,0
+Other-Renewable,Middle East,1999,0
+Other-Renewable,Middle East,2000,0.00003
+Other-Renewable,Middle East,2001,0.0000497
+Other-Renewable,Middle East,2002,0.0000494
+Other-Renewable,Middle East,2003,0.0000588
+Other-Renewable,Middle East,2004,0.0000585
+Other-Renewable,Middle East,2005,0.0000484
+Other-Renewable,Middle East,2006,0.0000577
+Other-Renewable,Middle East,2007,0.000095625
+Other-Renewable,Middle East,2008,0.000152
+Other-Renewable,Middle East,2009,0.000478867
+Other-Renewable,Middle East,2010,0.000752777
+Other-Renewable,Middle East,2011,0.002032291
+Other-Renewable,Middle East,2012,0.002034808
+Other-Renewable,Middle East,2013,0.001688935
+Other-Renewable,Middle East,2014,0.002135138
+Other-Renewable,Middle East,2015,0.001906443
+Other-Renewable,Middle East,2016,0.002360544
+Other-Renewable,Middle East,2017,0.002379456
+Other-Renewable,Middle East,2018,0.002294277
+Other-Renewable,Middle East,2019,0.002285758
+Other-Renewable,North America,1978,0.264087867
+Other-Renewable,North America,1979,0.281200372
+Other-Renewable,North America,1980,0.288711163
+Other-Renewable,North America,1981,0.302396033
+Other-Renewable,North America,1982,0.298400489
+Other-Renewable,North America,1983,0.332425992
+Other-Renewable,North America,1984,0.393563261
+Other-Renewable,North America,1985,0.397108944
+Other-Renewable,North America,1986,0.439606722
+Other-Renewable,North America,1987,0.493954332
+Other-Renewable,North America,1988,0.495120613
+Other-Renewable,North America,1989,0.570062679
+Other-Renewable,North America,1990,0.665373153
+Other-Renewable,North America,1991,0.703682757
+Other-Renewable,North America,1992,0.756459351
+Other-Renewable,North America,1993,0.782414844
+Other-Renewable,North America,1994,0.783063828
+Other-Renewable,North America,1995,0.768173888
+Other-Renewable,North America,1996,0.7853903
+Other-Renewable,North America,1997,0.798715494
+Other-Renewable,North America,1998,0.807429655
+Other-Renewable,North America,1999,0.8148087
+Other-Renewable,North America,2000,0.818585095
+Other-Renewable,North America,2001,0.822127438
+Other-Renewable,North America,2002,0.867722436
+Other-Renewable,North America,2003,0.860126245
+Other-Renewable,North America,2004,0.867439184
+Other-Renewable,North America,2005,0.870452199
+Other-Renewable,North America,2006,0.861296494
+Other-Renewable,North America,2007,0.871240525
+Other-Renewable,North America,2008,0.849830404
+Other-Renewable,North America,2009,0.846684878
+Other-Renewable,North America,2010,0.871118678
+Other-Renewable,North America,2011,0.870941936
+Other-Renewable,North America,2012,0.87822794
+Other-Renewable,North America,2013,0.912685581
+Other-Renewable,North America,2014,0.925348664
+Other-Renewable,North America,2015,0.921319523
+Other-Renewable,North America,2016,0.918095326
+Other-Renewable,North America,2017,0.912432121
+Other-Renewable,North America,2018,0.885308188
+Other-Renewable,North America,2019,0.863803505
+Other-Renewable,South & Central America,1978,0.040740808
+Other-Renewable,South & Central America,1979,0.043724132
+Other-Renewable,South & Central America,1980,0.043928652
+Other-Renewable,South & Central America,1981,0.048714507
+Other-Renewable,South & Central America,1982,0.055064923
+Other-Renewable,South & Central America,1983,0.063408751
+Other-Renewable,South & Central America,1984,0.06166177
+Other-Renewable,South & Central America,1985,0.060594372
+Other-Renewable,South & Central America,1986,0.062507613
+Other-Renewable,South & Central America,1987,0.067043701
+Other-Renewable,South & Central America,1988,0.066378618
+Other-Renewable,South & Central America,1989,0.069444062
+Other-Renewable,South & Central America,1990,0.083054235
+Other-Renewable,South & Central America,1991,0.083740137
+Other-Renewable,South & Central America,1992,0.106927215
+Other-Renewable,South & Central America,1993,0.102869643
+Other-Renewable,South & Central America,1994,0.108324129
+Other-Renewable,South & Central America,1995,0.110638035
+Other-Renewable,South & Central America,1996,0.125732824
+Other-Renewable,South & Central America,1997,0.13368205
+Other-Renewable,South & Central America,1998,0.125897003
+Other-Renewable,South & Central America,1999,0.148560684
+Other-Renewable,South & Central America,2000,0.149061836
+Other-Renewable,South & Central America,2001,0.163736019
+Other-Renewable,South & Central America,2002,0.180238175
+Other-Renewable,South & Central America,2003,0.196218441
+Other-Renewable,South & Central America,2004,0.204704421
+Other-Renewable,South & Central America,2005,0.216549044
+Other-Renewable,South & Central America,2006,0.232101929
+Other-Renewable,South & Central America,2007,0.281290177
+Other-Renewable,South & Central America,2008,0.315376254
+Other-Renewable,South & Central America,2009,0.350227782
+Other-Renewable,South & Central America,2010,0.446168045
+Other-Renewable,South & Central America,2011,0.464422941
+Other-Renewable,South & Central America,2012,0.52096651
+Other-Renewable,South & Central America,2013,0.582928261
+Other-Renewable,South & Central America,2014,0.633634034
+Other-Renewable,South & Central America,2015,0.666409562
+Other-Renewable,South & Central America,2016,0.689188102
+Other-Renewable,South & Central America,2017,0.711654126
+Other-Renewable,South & Central America,2018,0.746429052
+Other-Renewable,South & Central America,2019,0.778868856
+Hydro ,Africa,1978,0.463069387
+Hydro ,Africa,1979,0.49565233
+Hydro ,Africa,1980,0.483117844
+Hydro ,Africa,1981,0.501929061
+Hydro ,Africa,1982,0.502062371
+Hydro ,Africa,1983,0.452471601
+Hydro ,Africa,1984,0.444899733
+Hydro ,Africa,1985,0.494496851
+Hydro ,Africa,1986,0.511453733
+Hydro ,Africa,1987,0.490564603
+Hydro ,Africa,1988,0.535934564
+Hydro ,Africa,1989,0.562762148
+Hydro ,Africa,1990,0.572546591
+Hydro ,Africa,1991,0.606514884
+Hydro ,Africa,1992,0.578602916
+Hydro ,Africa,1993,0.566825072
+Hydro ,Africa,1994,0.575960486
+Hydro ,Africa,1995,0.597688769
+Hydro ,Africa,1996,0.623164587
+Hydro ,Africa,1997,0.638524975
+Hydro ,Africa,1998,0.666548879
+Hydro ,Africa,1999,0.706842613
+Hydro ,Africa,2000,0.752458166
+Hydro ,Africa,2001,0.803390229
+Hydro ,Africa,2002,0.840823525
+Hydro ,Africa,2003,0.812788976
+Hydro ,Africa,2004,0.851785783
+Hydro ,Africa,2005,0.862471983
+Hydro ,Africa,2006,0.887597775
+Hydro ,Africa,2007,0.911694123
+Hydro ,Africa,2008,0.923295218
+Hydro ,Africa,2009,0.942188515
+Hydro ,Africa,2010,1.008362294
+Hydro ,Africa,2011,1.030369367
+Hydro ,Africa,2012,1.02883042
+Hydro ,Africa,2013,1.08457503
+Hydro ,Africa,2014,1.133544887
+Hydro ,Africa,2015,1.091553181
+Hydro ,Africa,2016,1.04837818
+Hydro ,Africa,2017,1.114340622
+Hydro ,Africa,2018,1.166628041
+Hydro ,Africa,2019,1.183248275
+Hydro ,Asia Pacific,1978,2.370464094
+Hydro ,Asia Pacific,1979,2.569818746
+Hydro ,Asia Pacific,1980,2.734472188
+Hydro ,Asia Pacific,1981,2.897296901
+Hydro ,Asia Pacific,1982,2.826671874
+Hydro ,Asia Pacific,1983,2.993413708
+Hydro ,Asia Pacific,1984,2.994066941
+Hydro ,Asia Pacific,1985,3.200446134
+Hydro ,Asia Pacific,1986,3.281591022
+Hydro ,Asia Pacific,1987,3.268912813
+Hydro ,Asia Pacific,1988,3.617862617
+Hydro ,Asia Pacific,1989,3.880435299
+Hydro ,Asia Pacific,1990,3.992715428
+Hydro ,Asia Pacific,1991,4.105242723
+Hydro ,Asia Pacific,1992,4.015246503
+Hydro ,Asia Pacific,1993,4.402869206
+Hydro ,Asia Pacific,1994,4.432981975
+Hydro ,Asia Pacific,1995,4.834344319
+Hydro ,Asia Pacific,1996,4.734094408
+Hydro ,Asia Pacific,1997,4.758946676
+Hydro ,Asia Pacific,1998,5.066742947
+Hydro ,Asia Pacific,1999,5.002429652
+Hydro ,Asia Pacific,2000,5.216520707
+Hydro ,Asia Pacific,2001,5.667584523
+Hydro ,Asia Pacific,2002,5.714381084
+Hydro ,Asia Pacific,2003,5.829235342
+Hydro ,Asia Pacific,2004,6.813384625
+Hydro ,Asia Pacific,2005,7.048404485
+Hydro ,Asia Pacific,2006,7.714442206
+Hydro ,Asia Pacific,2007,8.148903923
+Hydro ,Asia Pacific,2008,9.481970581
+Hydro ,Asia Pacific,2009,9.14303404
+Hydro ,Asia Pacific,2010,10.30344114
+Hydro ,Asia Pacific,2011,10.42807481
+Hydro ,Asia Pacific,2012,11.70211371
+Hydro ,Asia Pacific,2013,12.77059992
+Hydro ,Asia Pacific,2014,13.94286458
+Hydro ,Asia Pacific,2015,14.25846837
+Hydro ,Asia Pacific,2016,14.69306591
+Hydro ,Asia Pacific,2017,15.04774007
+Hydro ,Asia Pacific,2018,15.30766718
+Hydro ,Asia Pacific,2019,15.90019181
+Hydro ,CIS,1978,1.69701
+Hydro ,CIS,1979,1.72023
+Hydro ,CIS,1980,1.83938
+Hydro ,CIS,1981,1.86744
+Hydro ,CIS,1982,1.74677
+Hydro ,CIS,1983,1.80362
+Hydro ,CIS,1984,2.02988
+Hydro ,CIS,1985,1.940921122
+Hydro ,CIS,1986,1.952013816
+Hydro ,CIS,1987,1.969779804
+Hydro ,CIS,1988,2.049196422
+Hydro ,CIS,1989,1.991567446
+Hydro ,CIS,1990,2.112386082
+Hydro ,CIS,1991,2.114583
+Hydro ,CIS,1992,2.160005
+Hydro ,CIS,1993,2.22579
+Hydro ,CIS,1994,2.2633
+Hydro ,CIS,1995,2.203152
+Hydro ,CIS,1996,1.98816
+Hydro ,CIS,1997,1.97854
+Hydro ,CIS,1998,1.98338
+Hydro ,CIS,1999,2.03164
+Hydro ,CIS,2000,2.084302046
+Hydro ,CIS,2001,2.158952093
+Hydro ,CIS,2002,2.046485491
+Hydro ,CIS,2003,2.017575336
+Hydro ,CIS,2004,2.20034985
+Hydro ,CIS,2005,2.164480576
+Hydro ,CIS,2006,2.136333621
+Hydro ,CIS,2007,2.174601094
+Hydro ,CIS,2008,1.973480343
+Hydro ,CIS,2009,2.061898454
+Hydro ,CIS,2010,2.035349393
+Hydro ,CIS,2011,1.984781996
+Hydro ,CIS,2012,1.975430254
+Hydro ,CIS,2013,2.114692421
+Hydro ,CIS,2014,2.026053426
+Hydro ,CIS,2015,1.961913589
+Hydro ,CIS,2016,2.139606426
+Hydro ,CIS,2017,2.167613133
+Hydro ,CIS,2018,2.185964684
+Hydro ,CIS,2019,2.213970178
+Hydro ,Europe,1978,4.555287082
+Hydro ,Europe,1979,4.791498824
+Hydro ,Europe,1980,4.647666471
+Hydro ,Europe,1981,4.70435388
+Hydro ,Europe,1982,4.66309649
+Hydro ,Europe,1983,4.801258491
+Hydro ,Europe,1984,4.851935345
+Hydro ,Europe,1985,5.029945406
+Hydro ,Europe,1986,4.860931835
+Hydro ,Europe,1987,5.295056594
+Hydro ,Europe,1988,5.674690014
+Hydro ,Europe,1989,4.938059306
+Hydro ,Europe,1990,5.024571504
+Hydro ,Europe,1991,5.130917745
+Hydro ,Europe,1992,5.296566498
+Hydro ,Europe,1993,5.504667647
+Hydro ,Europe,1994,5.571966286
+Hydro ,Europe,1995,5.648899094
+Hydro ,Europe,1996,5.480862941
+Hydro ,Europe,1997,5.676789719
+Hydro ,Europe,1998,5.939041617
+Hydro ,Europe,1999,5.981808529
+Hydro ,Europe,2000,6.1766352
+Hydro ,Europe,2001,6.080666652
+Hydro ,Europe,2002,5.56665764
+Hydro ,Europe,2003,5.193844928
+Hydro ,Europe,2004,5.556271929
+Hydro ,Europe,2005,5.536326216
+Hydro ,Europe,2006,5.407047676
+Hydro ,Europe,2007,5.392901974
+Hydro ,Europe,2008,5.635656539
+Hydro ,Europe,2009,5.569812703
+Hydro ,Europe,2010,6.09935126
+Hydro ,Europe,2011,5.31440492
+Hydro ,Europe,2012,5.802929352
+Hydro ,Europe,2013,6.098217471
+Hydro ,Europe,2014,5.900666366
+Hydro ,Europe,2015,5.791227865
+Hydro ,Europe,2016,5.897605356
+Hydro ,Europe,2017,5.263004088
+Hydro ,Europe,2018,5.77333819
+Hydro ,Europe,2019,5.638686375
+Hydro ,Middle East,1978,0.09812257
+Hydro ,Middle East,1979,0.096158292
+Hydro ,Middle East,1980,0.096827022
+Hydro ,Middle East,1981,0.102143526
+Hydro ,Middle East,1982,0.106058718
+Hydro ,Middle East,1983,0.102208704
+Hydro ,Middle East,1984,0.103732856
+Hydro ,Middle East,1985,0.10438
+Hydro ,Middle East,1986,0.11079
+Hydro ,Middle East,1987,0.13915
+Hydro ,Middle East,1988,0.14299
+Hydro ,Middle East,1989,0.12624
+Hydro ,Middle East,1990,0.15273264
+Hydro ,Middle East,1991,0.11009184
+Hydro ,Middle East,1992,0.17827066
+Hydro ,Middle East,1993,0.20046732
+Hydro ,Middle East,1994,0.16549761
+Hydro ,Middle East,1995,0.18652707
+Hydro ,Middle East,1996,0.18698375
+Hydro ,Middle East,1997,0.15927055
+Hydro ,Middle East,1998,0.1721056
+Hydro ,Middle East,1999,0.1180105
+Hydro ,Middle East,2000,0.10722177
+Hydro ,Middle East,2001,0.115423607
+Hydro ,Middle East,2002,0.166067987
+Hydro ,Middle East,2003,0.181291102
+Hydro ,Middle East,2004,0.224942763
+Hydro ,Middle East,2005,0.23161201
+Hydro ,Middle East,2006,0.271880259
+Hydro ,Middle East,2007,0.255374327
+Hydro ,Middle East,2008,0.130101631
+Hydro ,Middle East,2009,0.11443193
+Hydro ,Middle East,2010,0.163234329
+Hydro ,Middle East,2011,0.170312827
+Hydro ,Middle East,2012,0.198504713
+Hydro ,Middle East,2013,0.216686324
+Hydro ,Middle East,2014,0.182715715
+Hydro ,Middle East,2015,0.152702979
+Hydro ,Middle East,2016,0.182543995
+Hydro ,Middle East,2017,0.187033185
+Hydro ,Middle East,2018,0.129786428
+Hydro ,Middle East,2019,0.296820896
+Hydro ,North America,1978,5.377995091
+Hydro ,North America,1979,5.480643293
+Hydro ,North America,1980,5.500601111
+Hydro ,North America,1981,5.571427616
+Hydro ,North America,1982,5.962483061
+Hydro ,North America,1983,6.253626313
+Hydro ,North America,1984,6.373132374
+Hydro ,North America,1985,6.192546533
+Hydro ,North America,1986,6.289074687
+Hydro ,North America,1987,5.909013893
+Hydro ,North America,1988,5.576557606
+Hydro ,North America,1989,5.905281166
+Hydro ,North America,1990,6.124451817
+Hydro ,North America,1991,6.172272699
+Hydro ,North America,1992,5.934140267
+Hydro ,North America,1993,6.281197741
+Hydro ,North America,1994,6.074682214
+Hydro ,North America,1995,6.728782162
+Hydro ,North America,1996,7.334778323
+Hydro ,North America,1997,7.310148396
+Hydro ,North America,1998,6.775521434
+Hydro ,North America,1999,6.943182846
+Hydro ,North America,2000,6.625963083
+Hydro ,North America,2001,5.664937855
+Hydro ,North America,2002,6.241450494
+Hydro ,North America,2003,6.139247962
+Hydro ,North America,2004,6.101770572
+Hydro ,North America,2005,6.353305047
+Hydro ,North America,2006,6.436371039
+Hydro ,North America,2007,6.10092469
+Hydro ,North America,2008,6.345846066
+Hydro ,North America,2009,6.298901298
+Hydro ,North America,2010,6.061967733
+Hydro ,North America,2011,6.792542144
+Hydro ,North America,2012,6.36301826
+Hydro ,North America,2013,6.326089546
+Hydro ,North America,2014,6.203781035
+Hydro ,North America,2015,6.006506107
+Hydro ,North America,2016,6.155248311
+Hydro ,North America,2017,6.509175439
+Hydro ,North America,2018,6.333653758
+Hydro ,North America,2019,6.034371462
+Hydro ,South & Central America,1978,1.581929027
+Hydro ,South & Central America,1979,1.797890459
+Hydro ,South & Central America,1980,2.014459874
+Hydro ,South & Central America,1981,2.044446262
+Hydro ,South & Central America,1982,2.201946692
+Hydro ,South & Central America,1983,2.371094947
+Hydro ,South & Central America,1984,2.616108315
+Hydro ,South & Central America,1985,2.835012431
+Hydro ,South & Central America,1986,3.059861383
+Hydro ,South & Central America,1987,3.26458627
+Hydro ,South & Central America,1988,3.38997862
+Hydro ,South & Central America,1989,3.471363763
+Hydro ,South & Central America,1990,3.609658498
+Hydro ,South & Central America,1991,3.854481146
+Hydro ,South & Central America,1992,3.927910704
+Hydro ,South & Central America,1993,4.230630929
+Hydro ,South & Central America,1994,4.484429676
+Hydro ,South & Central America,1995,4.6569407
+Hydro ,South & Central America,1996,4.856945929
+Hydro ,South & Central America,1997,5.13913338
+Hydro ,South & Central America,1998,5.266079671
+Hydro ,South & Central America,1999,5.272850514
+Hydro ,South & Central America,2000,5.556516252
+Hydro ,South & Central America,2001,5.180134591
+Hydro ,South & Central America,2002,5.403005655
+Hydro ,South & Central America,2003,5.596743355
+Hydro ,South & Central America,2004,5.740276064
+Hydro ,South & Central America,2005,6.044004489
+Hydro ,South & Central America,2006,6.280545994
+Hydro ,South & Central America,2007,6.461740899
+Hydro ,South & Central America,2008,6.464955341
+Hydro ,South & Central America,2009,6.587764387
+Hydro ,South & Central America,2010,6.578765941
+Hydro ,South & Central America,2011,6.941914871
+Hydro ,South & Central America,2012,6.77206564
+Hydro ,South & Central America,2013,6.542642717
+Hydro ,South & Central America,2014,6.28757379
+Hydro ,South & Central America,2015,6.115414372
+Hydro ,South & Central America,2016,6.213790984
+Hydro ,South & Central America,2017,6.303919783
+Hydro ,South & Central America,2018,6.426058647
+Hydro ,South & Central America,2019,6.371137125
+Nuclear,Africa,1978,0
+Nuclear,Africa,1979,0
+Nuclear,Africa,1980,0
+Nuclear,Africa,1981,0
+Nuclear,Africa,1982,0
+Nuclear,Africa,1983,0
+Nuclear,Africa,1984,0.03925
+Nuclear,Africa,1985,0.05315
+Nuclear,Africa,1986,0.08803
+Nuclear,Africa,1987,0.06167
+Nuclear,Africa,1988,0.10493
+Nuclear,Africa,1989,0.11099
+Nuclear,Africa,1990,0.08449
+Nuclear,Africa,1991,0.09144
+Nuclear,Africa,1992,0.092880003
+Nuclear,Africa,1993,0.072550001
+Nuclear,Africa,1994,0.096969999
+Nuclear,Africa,1995,0.113009994
+Nuclear,Africa,1996,0.117750001
+Nuclear,Africa,1997,0.126469999
+Nuclear,Africa,1998,0.136009994
+Nuclear,Africa,1999,0.128369999
+Nuclear,Africa,2000,0.130100001
+Nuclear,Africa,2001,0.106493958
+Nuclear,Africa,2002,0.118362769
+Nuclear,Africa,2003,0.1241948
+Nuclear,Africa,2004,0.1302461
+Nuclear,Africa,2005,0.109352917
+Nuclear,Africa,2006,0.096476598
+Nuclear,Africa,2007,0.108218811
+Nuclear,Africa,2008,0.123578382
+Nuclear,Africa,2009,0.12094555
+Nuclear,Africa,2010,0.126971226
+Nuclear,Africa,2011,0.12036622
+Nuclear,Africa,2012,0.120243478
+Nuclear,Africa,2013,0.130013117
+Nuclear,Africa,2014,0.126376165
+Nuclear,Africa,2015,0.111444107
+Nuclear,Africa,2016,0.144068412
+Nuclear,Africa,2017,0.141807033
+Nuclear,Africa,2018,0.099230136
+Nuclear,Africa,2019,0.126710709
+Nuclear,Asia Pacific,1978,0.66738046
+Nuclear,Asia Pacific,1979,0.822736382
+Nuclear,Asia Pacific,1980,0.967950508
+Nuclear,Asia Pacific,1981,1.040191674
+Nuclear,Asia Pacific,1982,1.216514556
+Nuclear,Asia Pacific,1983,1.455096622
+Nuclear,Asia Pacific,1984,1.750157916
+Nuclear,Asia Pacific,1985,2.099467762
+Nuclear,Asia Pacific,1986,2.2616808
+Nuclear,Asia Pacific,1987,2.666734152
+Nuclear,Asia Pacific,1988,2.509199886
+Nuclear,Asia Pacific,1989,2.655964838
+Nuclear,Asia Pacific,1990,2.871385048
+Nuclear,Asia Pacific,1991,3.06127962
+Nuclear,Asia Pacific,1992,3.143659846
+Nuclear,Asia Pacific,1993,3.484297924
+Nuclear,Asia Pacific,1994,3.720585378
+Nuclear,Asia Pacific,1995,4.102016684
+Nuclear,Asia Pacific,1996,4.3127951
+Nuclear,Asia Pacific,1997,4.59452648
+Nuclear,Asia Pacific,1998,4.783517351
+Nuclear,Asia Pacific,1999,4.864709344
+Nuclear,Asia Pacific,2000,5.000392753
+Nuclear,Asia Pacific,2001,5.033143158
+Nuclear,Asia Pacific,2002,5.125891587
+Nuclear,Asia Pacific,2003,4.531442291
+Nuclear,Asia Pacific,2004,5.167018967
+Nuclear,Asia Pacific,2005,5.356375986
+Nuclear,Asia Pacific,2006,5.464868529
+Nuclear,Asia Pacific,2007,5.209312201
+Nuclear,Asia Pacific,2008,5.026197989
+Nuclear,Asia Pacific,2009,5.226582679
+Nuclear,Asia Pacific,2010,5.471818942
+Nuclear,Asia Pacific,2011,4.507266159
+Nuclear,Asia Pacific,2012,3.179745415
+Nuclear,Asia Pacific,2013,3.197324857
+Nuclear,Asia Pacific,2014,3.399474958
+Nuclear,Asia Pacific,2015,3.82379804
+Nuclear,Asia Pacific,2016,4.235240034
+Nuclear,Asia Pacific,2017,4.440028002
+Nuclear,Asia Pacific,2018,4.958107727
+Nuclear,Asia Pacific,2019,5.770564829
+Nuclear,CIS,1978,0.524626974
+Nuclear,CIS,1979,0.59617706
+Nuclear,CIS,1980,0.739233038
+Nuclear,CIS,1981,0.870886964
+Nuclear,CIS,1982,1.00254089
+Nuclear,CIS,1983,1.113953964
+Nuclear,CIS,1984,1.437984372
+Nuclear,CIS,1985,1.04585101
+Nuclear,CIS,1986,1.079747808
+Nuclear,CIS,1987,1.290332218
+Nuclear,CIS,1988,1.396265236
+Nuclear,CIS,1989,1.377173428
+Nuclear,CIS,1990,1.183250156
+Nuclear,CIS,1991,1.205229668
+Nuclear,CIS,1992,1.20090037
+Nuclear,CIS,1993,1.196323594
+Nuclear,CIS,1994,0.982000684
+Nuclear,CIS,1995,0.999155492
+Nuclear,CIS,1996,1.11438388
+Nuclear,CIS,1997,1.104055192
+Nuclear,CIS,1998,1.05396388
+Nuclear,CIS,1999,1.23952
+Nuclear,CIS,2000,1.3272
+Nuclear,CIS,2001,1.380199091
+Nuclear,CIS,2002,1.420540838
+Nuclear,CIS,2003,1.494103846
+Nuclear,CIS,2004,1.431651211
+Nuclear,CIS,2005,1.473467468
+Nuclear,CIS,2006,1.530734207
+Nuclear,CIS,2007,1.554966732
+Nuclear,CIS,2008,1.573196367
+Nuclear,CIS,2009,1.568497444
+Nuclear,CIS,2010,1.622970497
+Nuclear,CIS,2011,1.637186763
+Nuclear,CIS,2012,1.667652709
+Nuclear,CIS,2013,1.611733337
+Nuclear,CIS,2014,1.678622551
+Nuclear,CIS,2015,1.805563118
+Nuclear,CIS,2016,1.801551316
+Nuclear,CIS,2017,1.8518454
+Nuclear,CIS,2018,1.849037658
+Nuclear,CIS,2019,1.882569565
+Nuclear,Europe,1978,1.815450526
+Nuclear,Europe,1979,2.024217368
+Nuclear,Europe,1980,2.365016842
+Nuclear,Europe,1981,3.197351579
+Nuclear,Europe,1982,3.524089474
+Nuclear,Europe,1983,4.157588421
+Nuclear,Europe,1984,5.284577895
+Nuclear,Europe,1985,6.955217842
+Nuclear,Europe,1986,7.388383337
+Nuclear,Europe,1987,7.689284988
+Nuclear,Europe,1988,8.462282843
+Nuclear,Europe,1989,8.868244254
+Nuclear,Europe,1990,8.944116842
+Nuclear,Europe,1991,9.177954737
+Nuclear,Europe,1992,9.24220579
+Nuclear,Europe,1993,9.606898948
+Nuclear,Europe,1994,9.521283158
+Nuclear,Europe,1995,9.769412106
+Nuclear,Europe,1996,10.32181474
+Nuclear,Europe,1997,10.42499947
+Nuclear,Europe,1998,10.33895567
+Nuclear,Europe,1999,10.40453262
+Nuclear,Europe,2000,10.48820605
+Nuclear,Europe,2001,10.74979855
+Nuclear,Europe,2002,10.81320267
+Nuclear,Europe,2003,10.83563444
+Nuclear,Europe,2004,10.94057149
+Nuclear,Europe,2005,10.75061912
+Nuclear,Europe,2006,10.66256753
+Nuclear,Europe,2007,10.09620852
+Nuclear,Europe,2008,10.02670748
+Nuclear,Europe,2009,9.488764635
+Nuclear,Europe,2010,9.687322391
+Nuclear,Europe,2011,9.554715739
+Nuclear,Europe,2012,9.257584061
+Nuclear,Europe,2013,9.092305535
+Nuclear,Europe,2014,9.09481404
+Nuclear,Europe,2015,8.818154067
+Nuclear,Europe,2016,8.529704861
+Nuclear,Europe,2017,8.425106507
+Nuclear,Europe,2018,8.373037463
+Nuclear,Europe,2019,8.276711266
+Nuclear,Middle East,1978,0
+Nuclear,Middle East,1979,0
+Nuclear,Middle East,1980,0
+Nuclear,Middle East,1981,0
+Nuclear,Middle East,1982,0
+Nuclear,Middle East,1983,0
+Nuclear,Middle East,1984,0
+Nuclear,Middle East,1985,0
+Nuclear,Middle East,1986,0
+Nuclear,Middle East,1987,0
+Nuclear,Middle East,1988,0
+Nuclear,Middle East,1989,0
+Nuclear,Middle East,1990,0
+Nuclear,Middle East,1991,0
+Nuclear,Middle East,1992,0
+Nuclear,Middle East,1993,0
+Nuclear,Middle East,1994,0
+Nuclear,Middle East,1995,0
+Nuclear,Middle East,1996,0
+Nuclear,Middle East,1997,0
+Nuclear,Middle East,1998,0
+Nuclear,Middle East,1999,0
+Nuclear,Middle East,2000,0
+Nuclear,Middle East,2001,0
+Nuclear,Middle East,2002,0
+Nuclear,Middle East,2003,0
+Nuclear,Middle East,2004,0
+Nuclear,Middle East,2005,0
+Nuclear,Middle East,2006,0
+Nuclear,Middle East,2007,0
+Nuclear,Middle East,2008,0
+Nuclear,Middle East,2009,0
+Nuclear,Middle East,2010,0
+Nuclear,Middle East,2011,0.001036585
+Nuclear,Middle East,2012,0.01370303
+Nuclear,Middle East,2013,0.039837349
+Nuclear,Middle East,2014,0.037929341
+Nuclear,Middle East,2015,0.032303036
+Nuclear,Middle East,2016,0.058610373
+Nuclear,Middle East,2017,0.062618459
+Nuclear,Middle East,2018,0.061606005
+Nuclear,Middle East,2019,0.057146822
+Nuclear,North America,1978,3.221526
+Nuclear,North America,1979,3.038548137
+Nuclear,North America,1980,3.023641842
+Nuclear,North America,1981,3.2709174
+Nuclear,North America,1982,3.359930505
+Nuclear,North America,1983,3.577438095
+Nuclear,North America,1984,3.9708742
+Nuclear,North America,1985,4.644059758
+Nuclear,North America,1986,5.0709654
+Nuclear,North America,1987,5.564929811
+Nuclear,North America,1988,6.375754705
+Nuclear,North America,1989,6.369043337
+Nuclear,North America,1990,6.826198189
+Nuclear,North America,1991,7.333863021
+Nuclear,North America,1992,7.3528454
+Nuclear,North America,1993,7.406270147
+Nuclear,North America,1994,7.854704021
+Nuclear,North America,1995,8.144515505
+Nuclear,North America,1996,8.1024068
+Nuclear,North America,1997,7.541414431
+Nuclear,North America,1998,7.894177411
+Nuclear,North America,1999,8.495652884
+Nuclear,North America,2000,8.740862
+Nuclear,North America,2001,8.883725989
+Nuclear,North America,2002,8.9417811
+Nuclear,North America,2003,8.717098886
+Nuclear,North America,2004,9.053133873
+Nuclear,North America,2005,8.960652693
+Nuclear,North America,2006,9.014496289
+Nuclear,North America,2007,9.104752605
+Nuclear,North America,2008,9.064034377
+Nuclear,North America,2009,8.885953624
+Nuclear,North America,2010,8.87350763
+Nuclear,North America,2011,8.721199531
+Nuclear,North America,2012,8.464094278
+Nuclear,North America,2013,8.710529445
+Nuclear,North America,2014,8.752459622
+Nuclear,North America,2015,8.668293139
+Nuclear,North America,2016,8.685597729
+Nuclear,North America,2017,8.629137243
+Nuclear,North America,2018,8.618494963
+Nuclear,North America,2019,8.59120481
+Nuclear,South & Central America,1978,0.02896
+Nuclear,South & Central America,1979,0.02692
+Nuclear,South & Central America,1980,0.0234
+Nuclear,South & Central America,1981,0.02816
+Nuclear,South & Central America,1982,0.0187
+Nuclear,South & Central America,1983,0.03405
+Nuclear,South & Central America,1984,0.06284
+Nuclear,South & Central America,1985,0.09147
+Nuclear,South & Central America,1986,0.05855
+Nuclear,South & Central America,1987,0.07438
+Nuclear,South & Central America,1988,0.06406
+Nuclear,South & Central America,1989,0.06869
+Nuclear,South & Central America,1990,0.09518
+Nuclear,South & Central America,1991,0.09198
+Nuclear,South & Central America,1992,0.0884
+Nuclear,South & Central America,1993,0.08192
+Nuclear,South & Central America,1994,0.0829
+Nuclear,South & Central America,1995,0.09585
+Nuclear,South & Central America,1996,0.09886
+Nuclear,South & Central America,1997,0.1113
+Nuclear,South & Central America,1998,0.10718
+Nuclear,South & Central America,1999,0.11083
+Nuclear,South & Central America,2000,0.12223
+Nuclear,South & Central America,2001,0.211994415
+Nuclear,South & Central America,2002,0.194033613
+Nuclear,South & Central America,2003,0.205216154
+Nuclear,South & Central America,2004,0.189836942
+Nuclear,South & Central America,2005,0.161986329
+Nuclear,South & Central America,2006,0.206647189
+Nuclear,South & Central America,2007,0.187460955
+Nuclear,South & Central America,2008,0.203010854
+Nuclear,South & Central America,2009,0.199655556
+Nuclear,South & Central America,2010,0.203998333
+Nuclear,South & Central America,2011,0.205797837
+Nuclear,South & Central America,2012,0.208083709
+Nuclear,South & Central America,2013,0.199606841
+Nuclear,South & Central America,2014,0.191409986
+Nuclear,South & Central America,2015,0.198291212
+Nuclear,South & Central America,2016,0.218630153
+Nuclear,South & Central America,2017,0.196444768
+Nuclear,South & Central America,2018,0.201726358
+Nuclear,South & Central America,2019,0.219353724
+Coal,Africa,1978,1.720136098
+Coal,Africa,1979,1.826089187
+Coal,Africa,1980,1.956805414
+Coal,Africa,1981,2.28887562
+Coal,Africa,1982,2.524233177
+Coal,Africa,1983,2.56768577
+Coal,Africa,1984,2.746432339
+Coal,Africa,1985,2.833797202
+Coal,Africa,1986,2.899281948
+Coal,Africa,1987,2.981951036
+Coal,Africa,1988,3.204578898
+Coal,Africa,1989,3.008235103
+Coal,Africa,1990,3.160115501
+Coal,Africa,1991,3.071500447
+Coal,Africa,1992,3.089882693
+Coal,Africa,1993,3.137814744
+Coal,Africa,1994,3.21900743
+Coal,Africa,1995,3.318490224
+Coal,Africa,1996,3.364386619
+Coal,Africa,1997,3.449957041
+Coal,Africa,1998,3.370706204
+Coal,Africa,1999,3.475730233
+Coal,Africa,2000,3.467786095
+Coal,Africa,2001,3.512115583
+Coal,Africa,2002,3.362763339
+Coal,Africa,2003,3.660165515
+Coal,Africa,2004,4.025843984
+Coal,Africa,2005,3.736912493
+Coal,Africa,2006,3.789957632
+Coal,Africa,2007,3.852661363
+Coal,Africa,2008,4.246142074
+Coal,Africa,2009,4.227939158
+Coal,Africa,2010,4.19091506
+Coal,Africa,2011,4.120680234
+Coal,Africa,2012,4.017909405
+Coal,Africa,2013,4.070296527
+Coal,Africa,2014,4.264063565
+Coal,Africa,2015,4.026683175
+Coal,Africa,2016,4.273702573
+Coal,Africa,2017,4.25717735
+Coal,Africa,2018,4.405359657
+Coal,Africa,2019,4.472387318
+Coal,Asia Pacific,1978,18.78946439
+Coal,Asia Pacific,1979,19.69978687
+Coal,Asia Pacific,1980,20.82242092
+Coal,Asia Pacific,1981,21.51012992
+Coal,Asia Pacific,1982,22.26398691
+Coal,Asia Pacific,1983,23.56814
+Coal,Asia Pacific,1984,25.60945276
+Coal,Asia Pacific,1985,27.63085904
+Coal,Asia Pacific,1986,28.69300178
+Coal,Asia Pacific,1987,30.7592401
+Coal,Asia Pacific,1988,32.95873099
+Coal,Asia Pacific,1989,34.44469044
+Coal,Asia Pacific,1990,35.1828474
+Coal,Asia Pacific,1991,36.62432008
+Coal,Asia Pacific,1992,37.89439667
+Coal,Asia Pacific,1993,39.88339931
+Coal,Asia Pacific,1994,41.87299641
+Coal,Asia Pacific,1995,42.86250231
+Coal,Asia Pacific,1996,44.73975309
+Coal,Asia Pacific,1997,44.94443179
+Coal,Asia Pacific,1998,44.89919354
+Coal,Asia Pacific,1999,46.44401321
+Coal,Asia Pacific,2000,48.02023134
+Coal,Asia Pacific,2001,50.22775987
+Coal,Asia Pacific,2002,54.07201456
+Coal,Asia Pacific,2003,61.82703254
+Coal,Asia Pacific,2004,69.51898446
+Coal,Asia Pacific,2005,79.04312051
+Coal,Asia Pacific,2006,85.11107129
+Coal,Asia Pacific,2007,92.20382294
+Coal,Asia Pacific,2008,94.74950812
+Coal,Asia Pacific,2009,97.84440739
+Coal,Asia Pacific,2010,102.3066659
+Coal,Asia Pacific,2011,109.8335651
+Coal,Asia Pacific,2012,112.1984332
+Coal,Asia Pacific,2013,115.179828
+Coal,Asia Pacific,2014,115.9552215
+Coal,Asia Pacific,2015,115.26787
+Coal,Asia Pacific,2016,114.8076851
+Coal,Asia Pacific,2017,116.2809237
+Coal,Asia Pacific,2018,119.6154984
+Coal,Asia Pacific,2019,122.218429
+Coal,CIS,1978,14.47070624
+Coal,CIS,1979,14.57544785
+Coal,CIS,1980,14.13176488
+Coal,CIS,1981,14.04210198
+Coal,CIS,1982,14.25717743
+Coal,CIS,1983,14.29375044
+Coal,CIS,1984,14.15884395
+Coal,CIS,1985,10.27569258
+Coal,CIS,1986,10.61373379
+Coal,CIS,1987,10.79580786
+Coal,CIS,1988,10.71928521
+Coal,CIS,1989,10.35257164
+Coal,CIS,1990,9.622957478
+Coal,CIS,1991,8.91258701
+Coal,CIS,1992,8.394359803
+Coal,CIS,1993,7.565430729
+Coal,CIS,1994,6.770018498
+Coal,CIS,1995,6.257733338
+Coal,CIS,1996,6.054474542
+Coal,CIS,1997,5.519029917
+Coal,CIS,1998,5.210581283
+Coal,CIS,1999,5.177705254
+Coal,CIS,2000,5.271502686
+Coal,CIS,2001,5.333788246
+Coal,CIS,2002,5.372543821
+Coal,CIS,2003,5.491214414
+Coal,CIS,2004,5.384135477
+Coal,CIS,2005,5.18463591
+Coal,CIS,2006,5.344763375
+Coal,CIS,2007,5.336853531
+Coal,CIS,2008,5.743529441
+Coal,CIS,2009,5.262911589
+Coal,CIS,2010,5.29933381
+Coal,CIS,2011,5.58260078
+Coal,CIS,2012,5.841208357
+Coal,CIS,2013,5.519364185
+Coal,CIS,2014,5.384652591
+Coal,CIS,2015,5.455627889
+Coal,CIS,2016,5.315368688
+Coal,CIS,2017,5.216559919
+Coal,CIS,2018,5.54263983
+Coal,CIS,2019,5.529885472
+Coal,Europe,1978,19.93300163
+Coal,Europe,1979,20.8021252
+Coal,Europe,1980,21.19153646
+Coal,Europe,1981,20.83265513
+Coal,Europe,1982,20.94973024
+Coal,Europe,1983,21.24137523
+Coal,Europe,1984,21.20519908
+Coal,Europe,1985,26.0618518
+Coal,Europe,1986,25.84082924
+Coal,Europe,1987,26.04888595
+Coal,Europe,1988,25.51318637
+Coal,Europe,1989,25.19621408
+Coal,Europe,1990,23.97043958
+Coal,Europe,1991,22.58273757
+Coal,Europe,1992,21.27105045
+Coal,Europe,1993,19.86878179
+Coal,Europe,1994,18.72704684
+Coal,Europe,1995,18.52648537
+Coal,Europe,1996,17.99941781
+Coal,Europe,1997,17.50578822
+Coal,Europe,1998,17.03081246
+Coal,Europe,1999,16.08880556
+Coal,Europe,2000,16.55625026
+Coal,Europe,2001,16.40501154
+Coal,Europe,2002,16.39625313
+Coal,Europe,2003,17.04865011
+Coal,Europe,2004,16.76642807
+Coal,Europe,2005,16.36927024
+Coal,Europe,2006,17.13942637
+Coal,Europe,2007,17.36262851
+Coal,Europe,2008,16.37948902
+Coal,Europe,2009,14.6717103
+Coal,Europe,2010,15.33534667
+Coal,Europe,2011,15.98571395
+Coal,Europe,2012,16.34388653
+Coal,Europe,2013,15.80564287
+Coal,Europe,2014,14.84388047
+Coal,Europe,2015,14.19977147
+Coal,Europe,2016,13.68382331
+Coal,Europe,2017,13.22829303
+Coal,Europe,2018,12.9152856
+Coal,Europe,2019,11.3467701
+Coal,Middle East,1978,0.033308464
+Coal,Middle East,1979,0.047833269
+Coal,Middle East,1980,0.050401117
+Coal,Middle East,1981,0.042269933
+Coal,Middle East,1982,0.07999769
+Coal,Middle East,1983,0.097232945
+Coal,Middle East,1984,0.112164917
+Coal,Middle East,1985,0.117867384
+Coal,Middle East,1986,0.125769443
+Coal,Middle East,1987,0.130686924
+Coal,Middle East,1988,0.128129124
+Coal,Middle East,1989,0.124396527
+Coal,Middle East,1990,0.128975044
+Coal,Middle East,1991,0.149962052
+Coal,Middle East,1992,0.169698712
+Coal,Middle East,1993,0.198495811
+Coal,Middle East,1994,0.207680124
+Coal,Middle East,1995,0.221185483
+Coal,Middle East,1996,0.260446012
+Coal,Middle East,1997,0.279876676
+Coal,Middle East,1998,0.304289709
+Coal,Middle East,1999,0.297280652
+Coal,Middle East,2000,0.322142109
+Coal,Middle East,2001,0.362576794
+Coal,Middle East,2002,0.38037033
+Coal,Middle East,2003,0.397030704
+Coal,Middle East,2004,0.403451246
+Coal,Middle East,2005,0.410577479
+Coal,Middle East,2006,0.41007021
+Coal,Middle East,2007,0.415429672
+Coal,Middle East,2008,0.404017045
+Coal,Middle East,2009,0.401284319
+Coal,Middle East,2010,0.420506409
+Coal,Middle East,2011,0.429621041
+Coal,Middle East,2012,0.499232738
+Coal,Middle East,2013,0.468279428
+Coal,Middle East,2014,0.469928855
+Coal,Middle East,2015,0.439308447
+Coal,Middle East,2016,0.404953703
+Coal,Middle East,2017,0.399302839
+Coal,Middle East,2018,0.385401779
+Coal,Middle East,2019,0.399434017
+Coal,North America,1978,14.70016885
+Coal,North America,1979,15.93264475
+Coal,North America,1980,16.48407465
+Coal,North America,1981,16.97813999
+Coal,North America,1982,16.46158452
+Coal,North America,1983,17.09636585
+Coal,North America,1984,18.39495067
+Coal,North America,1985,18.76828587
+Coal,North America,1986,18.48074275
+Coal,North America,1987,19.30365154
+Coal,North America,1988,20.21872519
+Coal,North America,1989,20.45393081
+Coal,North America,1990,20.49422973
+Coal,North America,1991,20.27183296
+Coal,North America,1992,20.4250412
+Coal,North America,1993,21.03139754
+Coal,North America,1994,21.19835069
+Coal,North America,1995,21.44716454
+Coal,North America,1996,22.41623267
+Coal,North America,1997,22.91216007
+Coal,North America,1998,23.20999548
+Coal,North America,1999,23.13274802
+Coal,North America,2000,24.18645101
+Coal,North America,2001,23.59721577
+Coal,North America,2002,23.79827108
+Coal,North America,2003,24.08094558
+Coal,North America,2004,24.15443792
+Coal,North America,2005,24.5875731
+Coal,North America,2006,24.23540499
+Coal,North America,2007,24.54359388
+Coal,North America,2008,24.09303869
+Coal,North America,2009,21.15092825
+Coal,North America,2010,22.4520624
+Coal,North America,2011,21.2485724
+Coal,North America,2012,18.83814076
+Coal,North America,2013,19.48329392
+Coal,North America,2014,19.39348403
+Coal,North America,2015,16.94884003
+Coal,North America,2016,15.56149294
+Coal,North America,2017,15.28498459
+Coal,North America,2018,14.49978905
+Coal,North America,2019,12.4067919
+Coal,South & Central America,1978,0.401643833
+Coal,South & Central America,1979,0.424784885
+Coal,South & Central America,1980,0.450363096
+Coal,South & Central America,1981,0.444649635
+Coal,South & Central America,1982,0.447212318
+Coal,South & Central America,1983,0.497464383
+Coal,South & Central America,1984,0.571187678
+Coal,South & Central America,1985,0.661832085
+Coal,South & Central America,1986,0.668349971
+Coal,South & Central America,1987,0.736732116
+Coal,South & Central America,1988,0.730019687
+Coal,South & Central America,1989,0.78839783
+Coal,South & Central America,1990,0.662348775
+Coal,South & Central America,1991,0.700973902
+Coal,South & Central America,1992,0.735350545
+Coal,South & Central America,1993,0.745069574
+Coal,South & Central America,1994,0.789649887
+Coal,South & Central America,1995,0.802069938
+Coal,South & Central America,1996,0.824934558
+Coal,South & Central America,1997,0.885281316
+Coal,South & Central America,1998,0.868826405
+Coal,South & Central America,1999,0.862531865
+Coal,South & Central America,2000,0.877884105
+Coal,South & Central America,2001,0.830465409
+Coal,South & Central America,2002,0.8184169
+Coal,South & Central America,2003,0.882302189
+Coal,South & Central America,2004,0.938249924
+Coal,South & Central America,2005,0.882634243
+Coal,South & Central America,2006,1.023623264
+Coal,South & Central America,2007,1.089941625
+Coal,South & Central America,2008,1.157887308
+Coal,South & Central America,2009,0.975781003
+Coal,South & Central America,2010,1.18509055
+Coal,South & Central America,2011,1.264199052
+Coal,South & Central America,2012,1.328302452
+Coal,South & Central America,2013,1.449646915
+Coal,South & Central America,2014,1.524605832
+Coal,South & Central America,2015,1.500794603
+Coal,South & Central America,2016,1.457150753
+Coal,South & Central America,2017,1.426864149
+Coal,South & Central America,2018,1.429960903
+Coal,South & Central America,2019,1.483349094
+Gas,Africa,1978,0.350531632
+Gas,Africa,1979,0.535834137
+Gas,Africa,1980,0.672890318
+Gas,Africa,1981,0.822568161
+Gas,Africa,1982,0.888240775
+Gas,Africa,1983,0.976591249
+Gas,Africa,1984,0.93565001
+Gas,Africa,1985,1.00383389
+Gas,Africa,1986,1.12777633
+Gas,Africa,1987,1.164183686
+Gas,Africa,1988,1.290400346
+Gas,Africa,1989,1.337295748
+Gas,Africa,1990,1.435123384
+Gas,Africa,1991,1.445888134
+Gas,Africa,1992,1.516572926
+Gas,Africa,1993,1.485518318
+Gas,Africa,1994,1.554580628
+Gas,Africa,1995,1.660476592
+Gas,Africa,1996,1.743090293
+Gas,Africa,1997,1.708111931
+Gas,Africa,1998,1.797613153
+Gas,Africa,1999,1.814470573
+Gas,Africa,2000,2.004560466
+Gas,Africa,2001,2.313598112
+Gas,Africa,2002,2.452550837
+Gas,Africa,2003,2.605408064
+Gas,Africa,2004,2.836419185
+Gas,Africa,2005,2.942487317
+Gas,Africa,2006,3.070838839
+Gas,Africa,2007,3.269021097
+Gas,Africa,2008,3.412028425
+Gas,Africa,2009,3.440749025
+Gas,Africa,2010,3.561003543
+Gas,Africa,2011,3.859499605
+Gas,Africa,2012,4.143867141
+Gas,Africa,2013,4.198677098
+Gas,Africa,2014,4.316121372
+Gas,Africa,2015,4.624571389
+Gas,Africa,2016,4.752819408
+Gas,Africa,2017,5.043189901
+Gas,Africa,2018,5.3572674
+Gas,Africa,2019,5.404600526
+Gas,Asia Pacific,1978,2.158475218
+Gas,Asia Pacific,1979,2.467273337
+Gas,Asia Pacific,1980,2.648292351
+Gas,Asia Pacific,1981,2.677326216
+Gas,Asia Pacific,1982,2.784841749
+Gas,Asia Pacific,1983,3.075303688
+Gas,Asia Pacific,1984,3.597818588
+Gas,Asia Pacific,1985,3.909710352
+Gas,Asia Pacific,1986,4.268408768
+Gas,Asia Pacific,1987,4.531141885
+Gas,Asia Pacific,1988,4.832488891
+Gas,Asia Pacific,1989,5.073389296
+Gas,Asia Pacific,1990,5.472770916
+Gas,Asia Pacific,1991,6.004665567
+Gas,Asia Pacific,1992,6.412825568
+Gas,Asia Pacific,1993,6.719743091
+Gas,Asia Pacific,1994,7.315180833
+Gas,Asia Pacific,1995,7.662551742
+Gas,Asia Pacific,1996,8.365556205
+Gas,Asia Pacific,1997,9.038775605
+Gas,Asia Pacific,1998,9.244216289
+Gas,Asia Pacific,1999,9.982579106
+Gas,Asia Pacific,2000,10.74351329
+Gas,Asia Pacific,2001,11.40007076
+Gas,Asia Pacific,2002,11.92840693
+Gas,Asia Pacific,2003,12.91845031
+Gas,Asia Pacific,2004,13.6882778
+Gas,Asia Pacific,2005,14.70528108
+Gas,Asia Pacific,2006,15.82267361
+Gas,Asia Pacific,2007,17.04234213
+Gas,Asia Pacific,2008,18.13433035
+Gas,Asia Pacific,2009,18.56339155
+Gas,Asia Pacific,2010,20.79590826
+Gas,Asia Pacific,2011,22.43524875
+Gas,Asia Pacific,2012,23.91794605
+Gas,Asia Pacific,2013,24.78868331
+Gas,Asia Pacific,2014,25.51612895
+Gas,Asia Pacific,2015,25.92745401
+Gas,Asia Pacific,2016,26.55166435
+Gas,Asia Pacific,2017,27.94050096
+Gas,Asia Pacific,2018,29.91720783
+Gas,Asia Pacific,2019,31.31727197
+Gas,CIS,1978,12.40731263
+Gas,CIS,1979,13.17096516
+Gas,CIS,1980,13.57478589
+Gas,CIS,1981,14.37495369
+Gas,CIS,1982,15.51765018
+Gas,CIS,1983,16.63881932
+Gas,CIS,1984,18.15544194
+Gas,CIS,1985,15.62894842
+Gas,CIS,1986,16.04088534
+Gas,CIS,1987,16.91317937
+Gas,CIS,1988,17.82414662
+Gas,CIS,1989,18.22346758
+Gas,CIS,1990,18.39538383
+Gas,CIS,1991,18.73801151
+Gas,CIS,1992,18.18789041
+Gas,CIS,1993,18.00462618
+Gas,CIS,1994,16.91134298
+Gas,CIS,1995,16.41163781
+Gas,CIS,1996,16.60339211
+Gas,CIS,1997,15.3887131
+Gas,CIS,1998,15.97023438
+Gas,CIS,1999,16.13585663
+Gas,CIS,2000,16.28013253
+Gas,CIS,2001,16.69576451
+Gas,CIS,2002,16.81417977
+Gas,CIS,2003,17.11734833
+Gas,CIS,2004,17.70656998
+Gas,CIS,2005,18.02652085
+Gas,CIS,2006,18.73431475
+Gas,CIS,2007,19.13740693
+Gas,CIS,2008,18.76545628
+Gas,CIS,2009,17.99804057
+Gas,CIS,2010,19.12621357
+Gas,CIS,2011,19.78227647
+Gas,CIS,2012,19.62824606
+Gas,CIS,2013,19.34445373
+Gas,CIS,2014,19.4373107
+Gas,CIS,2015,19.07885265
+Gas,CIS,2016,19.39512374
+Gas,CIS,2017,19.78528756
+Gas,CIS,2018,20.96167462
+Gas,CIS,2019,20.65414778
+Gas,Europe,1978,9.588088025
+Gas,Europe,1979,10.12295481
+Gas,Europe,1980,10.11183372
+Gas,Europe,1981,10.0124379
+Gas,Europe,1982,9.821834545
+Gas,Europe,1983,10.21337535
+Gas,Europe,1984,10.69833477
+Gas,Europe,1985,14.49525831
+Gas,Europe,1986,14.8655163
+Gas,Europe,1987,15.52203162
+Gas,Europe,1988,15.65608724
+Gas,Europe,1989,16.09092416
+Gas,Europe,1990,17.37691401
+Gas,Europe,1991,17.59298495
+Gas,Europe,1992,16.62826998
+Gas,Europe,1993,16.71196913
+Gas,Europe,1994,16.23050384
+Gas,Europe,1995,17.14673533
+Gas,Europe,1996,18.99808282
+Gas,Europe,1997,18.56136889
+Gas,Europe,1998,18.82993287
+Gas,Europe,1999,19.57994133
+Gas,Europe,2000,20.10580984
+Gas,Europe,2001,20.50058849
+Gas,Europe,2002,20.56579824
+Gas,Europe,2003,21.49477464
+Gas,Europe,2004,22.01642618
+Gas,Europe,2005,22.5918479
+Gas,Europe,2006,22.42229836
+Gas,Europe,2007,22.22513325
+Gas,Europe,2008,22.53240574
+Gas,Europe,2009,20.78814527
+Gas,Europe,2010,22.42552244
+Gas,Europe,2011,20.89473246
+Gas,Europe,2012,20.36504701
+Gas,Europe,2013,19.9574478
+Gas,Europe,2014,18.00130429
+Gas,Europe,2015,18.32986799
+Gas,Europe,2016,19.34748819
+Gas,Europe,2017,20.12077642
+Gas,Europe,2018,19.72804215
+Gas,Europe,2019,19.94882508
+Gas,Middle East,1978,0.841968904
+Gas,Middle East,1979,1.140370024
+Gas,Middle East,1980,1.141273126
+Gas,Middle East,1981,1.23643938
+Gas,Middle East,1982,1.38233474
+Gas,Middle East,1983,1.414224954
+Gas,Middle East,1984,1.816101446
+Gas,Middle East,1985,1.959811962
+Gas,Middle East,1986,2.372572344
+Gas,Middle East,1987,2.601626334
+Gas,Middle East,1988,2.894550887
+Gas,Middle East,1989,3.264936496
+Gas,Middle East,1990,3.444525667
+Gas,Middle East,1991,3.603610961
+Gas,Middle East,1992,4.118492018
+Gas,Middle East,1993,3.858290476
+Gas,Middle East,1994,4.463507224
+Gas,Middle East,1995,4.908429837
+Gas,Middle East,1996,5.118206916
+Gas,Middle East,1997,5.410307418
+Gas,Middle East,1998,5.839180378
+Gas,Middle East,1999,6.228977887
+Gas,Middle East,2000,6.598607086
+Gas,Middle East,2001,7.014391397
+Gas,Middle East,2002,7.7260767
+Gas,Middle East,2003,8.11248663
+Gas,Middle East,2004,8.936159516
+Gas,Middle East,2005,9.58664675
+Gas,Middle East,2006,10.14755026
+Gas,Middle East,2007,11.0152278
+Gas,Middle East,2008,12.13524811
+Gas,Middle East,2009,12.50183591
+Gas,Middle East,2010,13.68289956
+Gas,Middle East,2011,14.33123807
+Gas,Middle East,2012,14.78900005
+Gas,Middle East,2013,15.23861486
+Gas,Middle East,2014,16.1091256
+Gas,Middle East,2015,17.21713195
+Gas,Middle East,2016,18.02693508
+Gas,Middle East,2017,18.79753867
+Gas,Middle East,2018,19.64927547
+Gas,Middle East,2019,20.1007057
+Gas,North America,1978,21.38238959
+Gas,North America,1979,22.17307122
+Gas,North America,1980,21.8084139
+Gas,North America,1981,21.35933035
+Gas,North America,1982,20.20634301
+Gas,North America,1983,19.07252462
+Gas,North America,1984,20.38057705
+Gas,North America,1985,19.84471038
+Gas,North America,1986,18.6025664
+Gas,North America,1987,19.63748217
+Gas,North America,1988,20.62113309
+Gas,North America,1989,21.87347662
+Gas,North America,1990,21.87499914
+Gas,North America,1991,22.35003934
+Gas,North America,1992,23.13524934
+Gas,North America,1993,23.77715792
+Gas,North America,1994,24.40670306
+Gas,North America,1995,25.41330293
+Gas,North America,1996,25.8741474
+Gas,North America,1997,26.06668582
+Gas,North America,1998,25.7189532
+Gas,North America,1999,26.00082449
+Gas,North America,2000,27.12688876
+Gas,North America,2001,25.95206661
+Gas,North America,2002,26.95127628
+Gas,North America,2003,26.51343359
+Gas,North America,2004,26.65689974
+Gas,North America,2005,26.4402349
+Gas,North America,2006,26.28407702
+Gas,North America,2007,27.79497321
+Gas,North America,2008,28.01606512
+Gas,North America,2009,27.69707033
+Gas,North America,2010,28.89068007
+Gas,North America,2011,29.75581805
+Gas,North America,2012,30.92351304
+Gas,North America,2013,32.00694225
+Gas,North America,2014,32.78525951
+Gas,North America,2015,33.62815657
+Gas,North America,2016,33.77935175
+Gas,North America,2017,33.67250344
+Gas,North America,2018,36.92864453
+Gas,North America,2019,38.07449794
+Gas,South & Central America,1978,1.134738554
+Gas,South & Central America,1979,1.221073138
+Gas,South & Central America,1980,1.2992644
+Gas,South & Central America,1981,1.339368532
+Gas,South & Central America,1982,1.486309398
+Gas,South & Central America,1983,1.539207943
+Gas,South & Central America,1984,1.661648988
+Gas,South & Central America,1985,1.696946583
+Gas,South & Central America,1986,1.833838742
+Gas,South & Central America,1987,1.840503335
+Gas,South & Central America,1988,1.996574741
+Gas,South & Central America,1989,2.070437887
+Gas,South & Central America,1990,2.144196876
+Gas,South & Central America,1991,2.178565845
+Gas,South & Central America,1992,2.241155532
+Gas,South & Central America,1993,2.411406113
+Gas,South & Central America,1994,2.534151592
+Gas,South & Central America,1995,2.787640985
+Gas,South & Central America,1996,3.085914656
+Gas,South & Central America,1997,3.14965307
+Gas,South & Central America,1998,3.376319049
+Gas,South & Central America,1999,3.330810745
+Gas,South & Central America,2000,3.540012311
+Gas,South & Central America,2001,3.714857957
+Gas,South & Central America,2002,3.752075579
+Gas,South & Central America,2003,3.94526499
+Gas,South & Central America,2004,4.407233473
+Gas,South & Central America,2005,4.577008453
+Gas,South & Central America,2006,4.950513385
+Gas,South & Central America,2007,5.081121241
+Gas,South & Central America,2008,5.091967964
+Gas,South & Central America,2009,4.890385903
+Gas,South & Central America,2010,5.30203947
+Gas,South & Central America,2011,5.476673203
+Gas,South & Central America,2012,5.824399997
+Gas,South & Central America,2013,6.023184189
+Gas,South & Central America,2014,6.214055508
+Gas,South & Central America,2015,6.402299898
+Gas,South & Central America,2016,6.270643999
+Gas,South & Central America,2017,6.348409167
+Gas,South & Central America,2018,6.117720291
+Gas,South & Central America,2019,5.952721107
+Oil,Africa,1978,2.657353228
+Oil,Africa,1979,2.833672536
+Oil,Africa,1980,2.998350247
+Oil,Africa,1981,3.190958232
+Oil,Africa,1982,3.34994324
+Oil,Africa,1983,3.463728129
+Oil,Africa,1984,3.537495142
+Oil,Africa,1985,3.61703254
+Oil,Africa,1986,3.563445293
+Oil,Africa,1987,3.74359888
+Oil,Africa,1988,3.918183682
+Oil,Africa,1989,4.062759892
+Oil,Africa,1990,4.12692607
+Oil,Africa,1991,4.155497361
+Oil,Africa,1992,4.25137211
+Oil,Africa,1993,4.300878102
+Oil,Africa,1994,4.400074707
+Oil,Africa,1995,4.553974689
+Oil,Africa,1996,4.667258266
+Oil,Africa,1997,4.793833387
+Oil,Africa,1998,4.909741668
+Oil,Africa,1999,5.086056238
+Oil,Africa,2000,5.114313707
+Oil,Africa,2001,5.180285836
+Oil,Africa,2002,5.274392282
+Oil,Africa,2003,5.415338909
+Oil,Africa,2004,5.673156576
+Oil,Africa,2005,5.959170492
+Oil,Africa,2006,6.000113217
+Oil,Africa,2007,6.20085715
+Oil,Africa,2008,6.549066276
+Oil,Africa,2009,6.787939446
+Oil,Africa,2010,7.127721645
+Oil,Africa,2011,6.934442063
+Oil,Africa,2012,7.311970003
+Oil,Africa,2013,7.573095873
+Oil,Africa,2014,7.699941539
+Oil,Africa,2015,7.874370484
+Oil,Africa,2016,7.94515305
+Oil,Africa,2017,7.990910258
+Oil,Africa,2018,8.07404612
+Oil,Africa,2019,8.278639844
+Oil,Asia Pacific,1978,22.64535357
+Oil,Asia Pacific,1979,23.23711706
+Oil,Asia Pacific,1980,22.03474293
+Oil,Asia Pacific,1981,21.40759019
+Oil,Asia Pacific,1982,20.73582558
+Oil,Asia Pacific,1983,21.04115203
+Oil,Asia Pacific,1984,21.84273434
+Oil,Asia Pacific,1985,21.78819217
+Oil,Asia Pacific,1986,22.65211708
+Oil,Asia Pacific,1987,23.38541634
+Oil,Asia Pacific,1988,25.40212543
+Oil,Asia Pacific,1989,26.96125113
+Oil,Asia Pacific,1990,28.48358598
+Oil,Asia Pacific,1991,29.71719451
+Oil,Asia Pacific,1992,31.72608965
+Oil,Asia Pacific,1993,33.11789363
+Oil,Asia Pacific,1994,35.07696075
+Oil,Asia Pacific,1995,37.22294901
+Oil,Asia Pacific,1996,39.03286655
+Oil,Asia Pacific,1997,40.92475845
+Oil,Asia Pacific,1998,40.00002563
+Oil,Asia Pacific,1999,41.86893723
+Oil,Asia Pacific,2000,43.0928554
+Oil,Asia Pacific,2001,43.36186328
+Oil,Asia Pacific,2002,44.75555148
+Oil,Asia Pacific,2003,46.61279283
+Oil,Asia Pacific,2004,49.20545056
+Oil,Asia Pacific,2005,49.60060587
+Oil,Asia Pacific,2006,50.76194875
+Oil,Asia Pacific,2007,52.45548812
+Oil,Asia Pacific,2008,52.23175137
+Oil,Asia Pacific,2009,52.65564926
+Oil,Asia Pacific,2010,55.97250081
+Oil,Asia Pacific,2011,57.74959479
+Oil,Asia Pacific,2012,60.17664225
+Oil,Asia Pacific,2013,61.17142041
+Oil,Asia Pacific,2014,62.1266529
+Oil,Asia Pacific,2015,64.5019137
+Oil,Asia Pacific,2016,66.8843866
+Oil,Asia Pacific,2017,68.8243571
+Oil,Asia Pacific,2018,70.26730897
+Oil,Asia Pacific,2019,71.53934266
+Oil,CIS,1978,16.88077947
+Oil,CIS,1979,17.17683685
+Oil,CIS,1980,18.00612623
+Oil,CIS,1981,18.16311909
+Oil,CIS,1982,18.03052245
+Oil,CIS,1983,17.7671458
+Oil,CIS,1984,17.76970658
+Oil,CIS,1985,14.20877663
+Oil,CIS,1986,14.39080253
+Oil,CIS,1987,14.3822197
+Oil,CIS,1988,14.38244227
+Oil,CIS,1989,14.45682746
+Oil,CIS,1990,14.29318366
+Oil,CIS,1991,13.87730521
+Oil,CIS,1992,13.00358532
+Oil,CIS,1993,10.69069491
+Oil,CIS,1994,9.261217599
+Oil,CIS,1995,8.167303434
+Oil,CIS,1996,7.171888398
+Oil,CIS,1997,7.073891531
+Oil,CIS,1998,6.78980804
+Oil,CIS,1999,6.809126085
+Oil,CIS,2000,6.74377954
+Oil,CIS,2001,6.778575969
+Oil,CIS,2002,6.613670235
+Oil,CIS,2003,6.925262379
+Oil,CIS,2004,6.89415568
+Oil,CIS,2005,6.848712475
+Oil,CIS,2006,7.149129212
+Oil,CIS,2007,7.149976832
+Oil,CIS,2008,7.30827586
+Oil,CIS,2009,7.017783334
+Oil,CIS,2010,7.18480991
+Oil,CIS,2011,7.717085346
+Oil,CIS,2012,7.923299424
+Oil,CIS,2013,7.832355335
+Oil,CIS,2014,8.203080727
+Oil,CIS,2015,7.87714877
+Oil,CIS,2016,8.058850869
+Oil,CIS,2017,7.982474467
+Oil,CIS,2018,8.244764356
+Oil,CIS,2019,8.372364253
+Oil,Europe,1978,35.28260594
+Oil,Europe,1979,36.08741794
+Oil,Europe,1980,33.65539565
+Oil,Europe,1981,31.35980454
+Oil,Europe,1982,29.83554047
+Oil,Europe,1983,29.00750496
+Oil,Europe,1984,29.17838864
+Oil,Europe,1985,32.63838
+Oil,Europe,1986,33.64309062
+Oil,Europe,1987,33.79945088
+Oil,Europe,1988,33.96731033
+Oil,Europe,1989,33.8502294
+Oil,Europe,1990,34.41851496
+Oil,Europe,1991,33.94012623
+Oil,Europe,1992,33.35411175
+Oil,Europe,1993,32.36614742
+Oil,Europe,1994,32.18707905
+Oil,Europe,1995,32.71835552
+Oil,Europe,1996,33.30836254
+Oil,Europe,1997,33.42972306
+Oil,Europe,1998,34.22356211
+Oil,Europe,1999,33.86190267
+Oil,Europe,2000,33.46905551
+Oil,Europe,2001,34.01094685
+Oil,Europe,2002,33.86762194
+Oil,Europe,2003,34.06178254
+Oil,Europe,2004,34.39533661
+Oil,Europe,2005,34.5921793
+Oil,Europe,2006,34.70776569
+Oil,Europe,2007,34.00897283
+Oil,Europe,2008,33.68468823
+Oil,Europe,2009,32.01868237
+Oil,Europe,2010,31.65359412
+Oil,Europe,2011,30.78967843
+Oil,Europe,2012,29.76343738
+Oil,Europe,2013,29.23197683
+Oil,Europe,2014,28.64224294
+Oil,Europe,2015,29.33002637
+Oil,Europe,2016,30.04490801
+Oil,Europe,2017,30.60023456
+Oil,Europe,2018,30.45603726
+Oil,Europe,2019,30.40247033
+Oil,Middle East,1978,3.687377874
+Oil,Middle East,1979,4.188757852
+Oil,Middle East,1980,4.007716815
+Oil,Middle East,1981,4.389025467
+Oil,Middle East,1982,4.822347067
+Oil,Middle East,1983,5.377456837
+Oil,Middle East,1984,5.86668621
+Oil,Middle East,1985,6.217090873
+Oil,Middle East,1986,6.164815728
+Oil,Middle East,1987,6.515618964
+Oil,Middle East,1988,6.806576982
+Oil,Middle East,1989,6.994803773
+Oil,Middle East,1990,7.133807957
+Oil,Middle East,1991,7.478437136
+Oil,Middle East,1992,7.904420722
+Oil,Middle East,1993,8.48290582
+Oil,Middle East,1994,9.381464589
+Oil,Middle East,1995,9.397862792
+Oil,Middle East,1996,9.620354222
+Oil,Middle East,1997,10.05861744
+Oil,Middle East,1998,9.855618753
+Oil,Middle East,1999,9.815610381
+Oil,Middle East,2000,10.26405918
+Oil,Middle East,2001,10.64190213
+Oil,Middle East,2002,10.86013048
+Oil,Middle East,2003,11.28146138
+Oil,Middle East,2004,11.95756235
+Oil,Middle East,2005,12.77160172
+Oil,Middle East,2006,13.34270814
+Oil,Middle East,2007,13.85058241
+Oil,Middle East,2008,14.70943881
+Oil,Middle East,2009,15.19608107
+Oil,Middle East,2010,15.46470137
+Oil,Middle East,2011,15.92480062
+Oil,Middle East,2012,16.61278743
+Oil,Middle East,2013,17.09075464
+Oil,Middle East,2014,17.23558033
+Oil,Middle East,2015,17.17910206
+Oil,Middle East,2016,17.51424418
+Oil,Middle East,2017,17.33663195
+Oil,Middle East,2018,17.31240653
+Oil,Middle East,2019,17.80391634
+Oil,North America,1978,43.29547298
+Oil,North America,1979,42.79535839
+Oil,North America,1980,40.24716311
+Oil,North America,1981,37.91341403
+Oil,North America,1982,35.92401856
+Oil,North America,1983,35.47067068
+Oil,North America,1984,36.7221521
+Oil,North America,1985,36.7034154
+Oil,North America,1986,38.01569093
+Oil,North America,1987,38.93359769
+Oil,North America,1988,40.45953758
+Oil,North America,1989,40.76784444
+Oil,North America,1990,40.09594266
+Oil,North America,1991,39.32210059
+Oil,North America,1992,40.10010214
+Oil,North America,1993,40.39067953
+Oil,North America,1994,41.58768956
+Oil,North America,1995,41.39794089
+Oil,North America,1996,42.8327514
+Oil,North America,1997,43.56125063
+Oil,North America,1998,44.43939295
+Oil,North America,1999,45.50978202
+Oil,North America,2000,46.10445382
+Oil,North America,2001,46.03501034
+Oil,North America,2002,46.0028336
+Oil,North America,2003,46.82134469
+Oil,North America,2004,48.54324248
+Oil,North America,2005,48.65472701
+Oil,North America,2006,48.04528666
+Oil,North America,2007,48.07664807
+Oil,North America,2008,45.37046124
+Oil,North America,2009,43.06993108
+Oil,North America,2010,43.95090321
+Oil,North America,2011,43.40522871
+Oil,North America,2012,42.56699685
+Oil,North America,2013,43.02995954
+Oil,North America,2014,43.17246733
+Oil,North America,2015,43.73552562
+Oil,North America,2016,44.09177202
+Oil,North America,2017,44.32410847
+Oil,North America,2018,45.18130321
+Oil,North America,2019,44.77949219
+Oil,South & Central America,1978,6.683812601
+Oil,South & Central America,1979,6.967468827
+Oil,South & Central America,1980,7.128443055
+Oil,South & Central America,1981,7.041138431
+Oil,South & Central America,1982,6.814271067
+Oil,South & Central America,1983,6.559701306
+Oil,South & Central America,1984,6.542387812
+Oil,South & Central America,1985,6.468075819
+Oil,South & Central America,1986,6.859736374
+Oil,South & Central America,1987,7.038136006
+Oil,South & Central America,1988,7.194801854
+Oil,South & Central America,1989,7.185637547
+Oil,South & Central America,1990,7.135120931
+Oil,South & Central America,1991,7.197648177
+Oil,South & Central America,1992,7.699931749
+Oil,South & Central America,1993,7.808055372
+Oil,South & Central America,1994,8.271276211
+Oil,South & Central America,1995,8.542396512
+Oil,South & Central America,1996,8.736192273
+Oil,South & Central America,1997,9.24553603
+Oil,South & Central America,1998,9.62968588
+Oil,South & Central America,1999,9.585444377
+Oil,South & Central America,2000,9.641246483
+Oil,South & Central America,2001,9.792654633
+Oil,South & Central America,2002,9.72681933
+Oil,South & Central America,2003,9.476148139
+Oil,South & Central America,2004,9.851507146
+Oil,South & Central America,2005,10.14016818
+Oil,South & Central America,2006,10.51350516
+Oil,South & Central America,2007,10.90439561
+Oil,South & Central America,2008,11.38251993
+Oil,South & Central America,2009,11.20641688
+Oil,South & Central America,2010,11.75932069
+Oil,South & Central America,2011,12.25894198
+Oil,South & Central America,2012,12.60891683
+Oil,South & Central America,2013,12.94893261
+Oil,South & Central America,2014,12.96904504
+Oil,South & Central America,2015,12.7128811
+Oil,South & Central America,2016,12.37309798
+Oil,South & Central America,2017,12.18420354
+Oil,South & Central America,2018,11.91602944
+Oil,South & Central America,2019,11.85534873
+Oil,World,1978,131.13
+Oil,World,1979,133.29
+Oil,World,1980,128.08
+Oil,World,1981,123.47
+Oil,World,1982,119.51
+Oil,World,1983,118.69
+Oil,World,1984,121.46
+Oil,World,1985,121.64
+Oil,World,1986,125.29
+Oil,World,1987,127.80
+Oil,World,1988,132.13
+Oil,World,1989,134.28
+Oil,World,1990,135.69
+Oil,World,1991,135.69
+Oil,World,1992,138.04
+Oil,World,1993,137.16
+Oil,World,1994,140.17
+Oil,World,1995,142.00
+Oil,World,1996,145.37
+Oil,World,1997,149.09
+Oil,World,1998,149.85
+Oil,World,1999,152.54
+Oil,World,2000,154.43
+Oil,World,2001,155.80
+Oil,World,2002,157.10
+Oil,World,2003,160.59
+Oil,World,2004,166.52
+Oil,World,2005,168.57
+Oil,World,2006,170.52
+Oil,World,2007,172.65
+Oil,World,2008,171.24
+Oil,World,2009,167.95
+Oil,World,2010,173.11
+Oil,World,2011,174.78
+Oil,World,2012,176.96
+Oil,World,2013,178.88
+Oil,World,2014,180.05
+Oil,World,2015,183.21
+Oil,World,2016,186.91
+Oil,World,2017,189.24
+Oil,World,2018,191.45
+Oil,World,2019,193.03
+Gas,World,1978,47.86
+Gas,World,1979,50.83
+Gas,World,1980,51.26
+Gas,World,1981,51.82
+Gas,World,1982,52.09
+Gas,World,1983,52.93
+Gas,World,1984,57.25
+Gas,World,1985,58.54
+Gas,World,1986,59.11
+Gas,World,1987,62.21
+Gas,World,1988,65.12
+Gas,World,1989,67.93
+Gas,World,1990,70.14
+Gas,World,1991,71.91
+Gas,World,1992,72.24
+Gas,World,1993,72.97
+Gas,World,1994,73.42
+Gas,World,1995,75.99
+Gas,World,1996,79.79
+Gas,World,1997,79.32
+Gas,World,1998,80.78
+Gas,World,1999,83.07
+Gas,World,2000,86.40
+Gas,World,2001,87.59
+Gas,World,2002,90.19
+Gas,World,2003,92.71
+Gas,World,2004,96.25
+Gas,World,2005,98.87
+Gas,World,2006,101.43
+Gas,World,2007,105.57
+Gas,World,2008,108.09
+Gas,World,2009,105.88
+Gas,World,2010,113.78
+Gas,World,2011,116.54
+Gas,World,2012,119.59
+Gas,World,2013,121.56
+Gas,World,2014,122.38
+Gas,World,2015,125.21
+Gas,World,2016,128.12
+Gas,World,2017,131.71
+Gas,World,2018,138.66
+Gas,World,2019,141.45
+Coal,World,1978,70.05
+Coal,World,1979,73.31
+Coal,World,1980,75.09
+Coal,World,1981,76.14
+Coal,World,1982,76.98
+Coal,World,1983,79.36
+Coal,World,1984,82.80
+Coal,World,1985,86.35
+Coal,World,1986,87.32
+Coal,World,1987,90.76
+Coal,World,1988,93.47
+Coal,World,1989,94.37
+Coal,World,1990,93.22
+Coal,World,1991,92.31
+Coal,World,1992,91.98
+Coal,World,1993,92.43
+Coal,World,1994,92.78
+Coal,World,1995,93.44
+Coal,World,1996,95.66
+Coal,World,1997,95.50
+Coal,World,1998,94.89
+Coal,World,1999,95.48
+Coal,World,2000,98.70
+Coal,World,2001,100.27
+Coal,World,2002,104.20
+Coal,World,2003,113.39
+Coal,World,2004,121.19
+Coal,World,2005,130.21
+Coal,World,2006,137.05
+Coal,World,2007,144.80
+Coal,World,2008,146.77
+Coal,World,2009,144.53
+Coal,World,2010,151.19
+Coal,World,2011,158.46
+Coal,World,2012,159.07
+Coal,World,2013,161.98
+Coal,World,2014,161.84
+Coal,World,2015,157.84
+Coal,World,2016,155.50
+Coal,World,2017,156.09
+Coal,World,2018,158.79
+Coal,World,2019,157.86
+Nuclear,World,1978,6.26
+Nuclear,World,1979,6.51
+Nuclear,World,1980,7.12
+Nuclear,World,1981,8.41
+Nuclear,World,1982,9.12
+Nuclear,World,1983,10.34
+Nuclear,World,1984,12.55
+Nuclear,World,1985,14.89
+Nuclear,World,1986,15.95
+Nuclear,World,1987,17.35
+Nuclear,World,1988,18.91
+Nuclear,World,1989,19.45
+Nuclear,World,1990,20.00
+Nuclear,World,1991,20.96
+Nuclear,World,1992,21.12
+Nuclear,World,1993,21.85
+Nuclear,World,1994,22.26
+Nuclear,World,1995,23.22
+Nuclear,World,1996,24.07
+Nuclear,World,1997,23.90
+Nuclear,World,1998,24.31
+Nuclear,World,1999,25.24
+Nuclear,World,2000,25.81
+Nuclear,World,2001,26.37
+Nuclear,World,2002,26.61
+Nuclear,World,2003,25.91
+Nuclear,World,2004,26.91
+Nuclear,World,2005,26.81
+Nuclear,World,2006,26.98
+Nuclear,World,2007,26.26
+Nuclear,World,2008,26.02
+Nuclear,World,2009,25.49
+Nuclear,World,2010,25.99
+Nuclear,World,2011,24.75
+Nuclear,World,2012,22.91
+Nuclear,World,2013,22.98
+Nuclear,World,2014,23.28
+Nuclear,World,2015,23.46
+Nuclear,World,2016,23.67
+Nuclear,World,2017,23.75
+Nuclear,World,2018,24.16
+Nuclear,World,2019,24.92
+Hydro,World,1978,16.14
+Hydro,World,1979,16.95
+Hydro,World,1980,17.32
+Hydro,World,1981,17.69
+Hydro,World,1982,18.01
+Hydro,World,1983,18.78
+Hydro,World,1984,19.41
+Hydro,World,1985,19.80
+Hydro,World,1986,20.07
+Hydro,World,1987,20.34
+Hydro,World,1988,20.99
+Hydro,World,1989,20.88
+Hydro,World,1990,21.59
+Hydro,World,1991,22.09
+Hydro,World,1992,22.09
+Hydro,World,1993,23.41
+Hydro,World,1994,23.57
+Hydro,World,1995,24.86
+Hydro,World,1996,25.20
+Hydro,World,1997,25.66
+Hydro,World,1998,25.87
+Hydro,World,1999,26.06
+Hydro,World,2000,26.52
+Hydro,World,2001,25.67
+Hydro,World,2002,25.98
+Hydro,World,2003,25.77
+Hydro,World,2004,27.49
+Hydro,World,2005,28.24
+Hydro,World,2006,29.13
+Hydro,World,2007,29.45
+Hydro,World,2008,30.96
+Hydro,World,2009,30.72
+Hydro,World,2010,32.25
+Hydro,World,2011,32.66
+Hydro,World,2012,33.84
+Hydro,World,2013,35.15
+Hydro,World,2014,35.68
+Hydro,World,2015,35.38
+Hydro,World,2016,36.33
+Hydro,World,2017,36.59
+Hydro,World,2018,37.32
+Hydro,World,2019,37.64
+Solar,World,1978,0.00
+Solar,World,1979,0.00
+Solar,World,1980,0.00
+Solar,World,1981,0.00
+Solar,World,1982,0.00
+Solar,World,1983,0.00
+Solar,World,1984,0.00
+Solar,World,1985,0.00
+Solar,World,1986,0.00
+Solar,World,1987,0.00
+Solar,World,1988,0.00
+Solar,World,1989,0.00
+Solar,World,1990,0.00
+Solar,World,1991,0.01
+Solar,World,1992,0.00
+Solar,World,1993,0.01
+Solar,World,1994,0.01
+Solar,World,1995,0.01
+Solar,World,1996,0.01
+Solar,World,1997,0.01
+Solar,World,1998,0.01
+Solar,World,1999,0.01
+Solar,World,2000,0.01
+Solar,World,2001,0.01
+Solar,World,2002,0.02
+Solar,World,2003,0.02
+Solar,World,2004,0.03
+Solar,World,2005,0.04
+Solar,World,2006,0.06
+Solar,World,2007,0.07
+Solar,World,2008,0.12
+Solar,World,2009,0.20
+Solar,World,2010,0.32
+Solar,World,2011,0.61
+Solar,World,2012,0.93
+Solar,World,2013,1.28
+Solar,World,2014,1.81
+Solar,World,2015,2.34
+Solar,World,2016,2.97
+Solar,World,2017,4.02
+Solar,World,2018,5.21
+Solar,World,2019,6.45
+Wind,World,1978,0.00
+Wind,World,1979,0.00
+Wind,World,1980,0.00
+Wind,World,1981,0.00
+Wind,World,1982,0.00
+Wind,World,1983,0.00
+Wind,World,1984,0.00
+Wind,World,1985,0.00
+Wind,World,1986,0.00
+Wind,World,1987,0.00
+Wind,World,1988,0.00
+Wind,World,1989,0.03
+Wind,World,1990,0.04
+Wind,World,1991,0.04
+Wind,World,1992,0.05
+Wind,World,1993,0.06
+Wind,World,1994,0.07
+Wind,World,1995,0.08
+Wind,World,1996,0.09
+Wind,World,1997,0.12
+Wind,World,1998,0.16
+Wind,World,1999,0.21
+Wind,World,2000,0.31
+Wind,World,2001,0.38
+Wind,World,2002,0.52
+Wind,World,2003,0.62
+Wind,World,2004,0.83
+Wind,World,2005,1.01
+Wind,World,2006,1.28
+Wind,World,2007,1.63
+Wind,World,2008,2.10
+Wind,World,2009,2.61
+Wind,World,2010,3.25
+Wind,World,2011,4.11
+Wind,World,2012,4.92
+Wind,World,2013,5.86
+Wind,World,2014,6.47
+Wind,World,2015,7.57
+Wind,World,2016,8.73
+Wind,World,2017,10.27
+Wind,World,2018,11.36
+Wind,World,2019,12.74
+Other-Renewable,World,1978,0.43
+Other-Renewable,World,1979,0.46
+Other-Renewable,World,1980,0.49
+Other-Renewable,World,1981,0.53
+Other-Renewable,World,1982,0.61
+Other-Renewable,World,1983,0.68
+Other-Renewable,World,1984,0.76
+Other-Renewable,World,1985,0.78
+Other-Renewable,World,1986,0.86
+Other-Renewable,World,1987,0.92
+Other-Renewable,World,1988,0.94
+Other-Renewable,World,1989,1.04
+Other-Renewable,World,1990,1.17
+Other-Renewable,World,1991,1.22
+Other-Renewable,World,1992,1.31
+Other-Renewable,World,1993,1.35
+Other-Renewable,World,1994,1.40
+Other-Renewable,World,1995,1.46
+Other-Renewable,World,1996,1.51
+Other-Renewable,World,1997,1.61
+Other-Renewable,World,1998,1.69
+Other-Renewable,World,1999,1.77
+Other-Renewable,World,2000,1.86
+Other-Renewable,World,2001,1.91
+Other-Renewable,World,2002,2.04
+Other-Renewable,World,2003,2.14
+Other-Renewable,World,2004,2.29
+Other-Renewable,World,2005,2.47
+Other-Renewable,World,2006,2.61
+Other-Renewable,World,2007,2.82
+Other-Renewable,World,2008,3.00
+Other-Renewable,World,2009,3.21
+Other-Renewable,World,2010,3.57
+Other-Renewable,World,2011,3.72
+Other-Renewable,World,2012,3.99
+Other-Renewable,World,2013,4.28
+Other-Renewable,World,2014,4.59
+Other-Renewable,World,2015,4.90
+Other-Renewable,World,2016,4.96
+Other-Renewable,World,2017,5.25
+Other-Renewable,World,2018,5.50
+Other-Renewable,World,2019,5.81
